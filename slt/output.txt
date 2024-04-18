@@ -1,0 +1,1142 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+2024-04-15 20:24:48.368619: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-04-15 20:24:49.842953: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+WARNING:absl:Using custom data configuration sentences-openpose
+WARNING:absl:You use TensorFlow DType <dtype: 'int32'> in tfds.features This will soon be deprecated in favor of NumPy DTypes. In the meantime it was converted to int32.
+WARNING:absl:You use TensorFlow DType <dtype: 'float32'> in tfds.features This will soon be deprecated in favor of NumPy DTypes. In the meantime it was converted to float32.
+2024-04-15 20:24:54.398171: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_3' with dtype int64 and shape [128]
+	 [[{{node Placeholder/_3}}]]
+2024-04-15 20:24:54.398494: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_0' with dtype string and shape [128]
+	 [[{{node Placeholder/_0}}]]
+INFO:signjoey.helpers:Hello! This is Joey-NMT.
+INFO:signjoey.helpers:Total params: 56884158
+INFO:signjoey.helpers:Trainable parameters: ['decoder.layer_norm.bias', 'decoder.layer_norm.weight', 'decoder.layers.0.dec_layer_norm.bias', 'decoder.layers.0.dec_layer_norm.weight', 'decoder.layers.0.feed_forward.layer_norm.bias', 'decoder.layers.0.feed_forward.layer_norm.weight', 'decoder.layers.0.feed_forward.pwff_layer.0.bias', 'decoder.layers.0.feed_forward.pwff_layer.0.weight', 'decoder.layers.0.feed_forward.pwff_layer.3.bias', 'decoder.layers.0.feed_forward.pwff_layer.3.weight', 'decoder.layers.0.src_trg_att.k_layer.bias', 'decoder.layers.0.src_trg_att.k_layer.weight', 'decoder.layers.0.src_trg_att.output_layer.bias', 'decoder.layers.0.src_trg_att.output_layer.weight', 'decoder.layers.0.src_trg_att.q_layer.bias', 'decoder.layers.0.src_trg_att.q_layer.weight', 'decoder.layers.0.src_trg_att.v_layer.bias', 'decoder.layers.0.src_trg_att.v_layer.weight', 'decoder.layers.0.trg_trg_att.k_layer.bias', 'decoder.layers.0.trg_trg_att.k_layer.weight', 'decoder.layers.0.trg_trg_att.output_layer.bias', 'decoder.layers.0.trg_trg_att.output_layer.weight', 'decoder.layers.0.trg_trg_att.q_layer.bias', 'decoder.layers.0.trg_trg_att.q_layer.weight', 'decoder.layers.0.trg_trg_att.v_layer.bias', 'decoder.layers.0.trg_trg_att.v_layer.weight', 'decoder.layers.0.x_layer_norm.bias', 'decoder.layers.0.x_layer_norm.weight', 'decoder.layers.1.dec_layer_norm.bias', 'decoder.layers.1.dec_layer_norm.weight', 'decoder.layers.1.feed_forward.layer_norm.bias', 'decoder.layers.1.feed_forward.layer_norm.weight', 'decoder.layers.1.feed_forward.pwff_layer.0.bias', 'decoder.layers.1.feed_forward.pwff_layer.0.weight', 'decoder.layers.1.feed_forward.pwff_layer.3.bias', 'decoder.layers.1.feed_forward.pwff_layer.3.weight', 'decoder.layers.1.src_trg_att.k_layer.bias', 'decoder.layers.1.src_trg_att.k_layer.weight', 'decoder.layers.1.src_trg_att.output_layer.bias', 'decoder.layers.1.src_trg_att.output_layer.weight', 'decoder.layers.1.src_trg_att.q_layer.bias', 'decoder.layers.1.src_trg_att.q_layer.weight', 'decoder.layers.1.src_trg_att.v_layer.bias', 'decoder.layers.1.src_trg_att.v_layer.weight', 'decoder.layers.1.trg_trg_att.k_layer.bias', 'decoder.layers.1.trg_trg_att.k_layer.weight', 'decoder.layers.1.trg_trg_att.output_layer.bias', 'decoder.layers.1.trg_trg_att.output_layer.weight', 'decoder.layers.1.trg_trg_att.q_layer.bias', 'decoder.layers.1.trg_trg_att.q_layer.weight', 'decoder.layers.1.trg_trg_att.v_layer.bias', 'decoder.layers.1.trg_trg_att.v_layer.weight', 'decoder.layers.1.x_layer_norm.bias', 'decoder.layers.1.x_layer_norm.weight', 'decoder.layers.2.dec_layer_norm.bias', 'decoder.layers.2.dec_layer_norm.weight', 'decoder.layers.2.feed_forward.layer_norm.bias', 'decoder.layers.2.feed_forward.layer_norm.weight', 'decoder.layers.2.feed_forward.pwff_layer.0.bias', 'decoder.layers.2.feed_forward.pwff_layer.0.weight', 'decoder.layers.2.feed_forward.pwff_layer.3.bias', 'decoder.layers.2.feed_forward.pwff_layer.3.weight', 'decoder.layers.2.src_trg_att.k_layer.bias', 'decoder.layers.2.src_trg_att.k_layer.weight', 'decoder.layers.2.src_trg_att.output_layer.bias', 'decoder.layers.2.src_trg_att.output_layer.weight', 'decoder.layers.2.src_trg_att.q_layer.bias', 'decoder.layers.2.src_trg_att.q_layer.weight', 'decoder.layers.2.src_trg_att.v_layer.bias', 'decoder.layers.2.src_trg_att.v_layer.weight', 'decoder.layers.2.trg_trg_att.k_layer.bias', 'decoder.layers.2.trg_trg_att.k_layer.weight', 'decoder.layers.2.trg_trg_att.output_layer.bias', 'decoder.layers.2.trg_trg_att.output_layer.weight', 'decoder.layers.2.trg_trg_att.q_layer.bias', 'decoder.layers.2.trg_trg_att.q_layer.weight', 'decoder.layers.2.trg_trg_att.v_layer.bias', 'decoder.layers.2.trg_trg_att.v_layer.weight', 'decoder.layers.2.x_layer_norm.bias', 'decoder.layers.2.x_layer_norm.weight', 'decoder.output_layer.weight', 'encoder.layer_norm.bias', 'encoder.layer_norm.weight', 'encoder.layers.0.feed_forward.layer_norm.bias', 'encoder.layers.0.feed_forward.layer_norm.weight', 'encoder.layers.0.feed_forward.pwff_layer.0.bias', 'encoder.layers.0.feed_forward.pwff_layer.0.weight', 'encoder.layers.0.feed_forward.pwff_layer.3.bias', 'encoder.layers.0.feed_forward.pwff_layer.3.weight', 'encoder.layers.0.layer_norm.bias', 'encoder.layers.0.layer_norm.weight', 'encoder.layers.0.src_src_att.k_layer.bias', 'encoder.layers.0.src_src_att.k_layer.weight', 'encoder.layers.0.src_src_att.output_layer.bias', 'encoder.layers.0.src_src_att.output_layer.weight', 'encoder.layers.0.src_src_att.q_layer.bias', 'encoder.layers.0.src_src_att.q_layer.weight', 'encoder.layers.0.src_src_att.v_layer.bias', 'encoder.layers.0.src_src_att.v_layer.weight', 'encoder.layers.1.feed_forward.layer_norm.bias', 'encoder.layers.1.feed_forward.layer_norm.weight', 'encoder.layers.1.feed_forward.pwff_layer.0.bias', 'encoder.layers.1.feed_forward.pwff_layer.0.weight', 'encoder.layers.1.feed_forward.pwff_layer.3.bias', 'encoder.layers.1.feed_forward.pwff_layer.3.weight', 'encoder.layers.1.layer_norm.bias', 'encoder.layers.1.layer_norm.weight', 'encoder.layers.1.src_src_att.k_layer.bias', 'encoder.layers.1.src_src_att.k_layer.weight', 'encoder.layers.1.src_src_att.output_layer.bias', 'encoder.layers.1.src_src_att.output_layer.weight', 'encoder.layers.1.src_src_att.q_layer.bias', 'encoder.layers.1.src_src_att.q_layer.weight', 'encoder.layers.1.src_src_att.v_layer.bias', 'encoder.layers.1.src_src_att.v_layer.weight', 'encoder.layers.2.feed_forward.layer_norm.bias', 'encoder.layers.2.feed_forward.layer_norm.weight', 'encoder.layers.2.feed_forward.pwff_layer.0.bias', 'encoder.layers.2.feed_forward.pwff_layer.0.weight', 'encoder.layers.2.feed_forward.pwff_layer.3.bias', 'encoder.layers.2.feed_forward.pwff_layer.3.weight', 'encoder.layers.2.layer_norm.bias', 'encoder.layers.2.layer_norm.weight', 'encoder.layers.2.src_src_att.k_layer.bias', 'encoder.layers.2.src_src_att.k_layer.weight', 'encoder.layers.2.src_src_att.output_layer.bias', 'encoder.layers.2.src_src_att.output_layer.weight', 'encoder.layers.2.src_src_att.q_layer.bias', 'encoder.layers.2.src_src_att.q_layer.weight', 'encoder.layers.2.src_src_att.v_layer.bias', 'encoder.layers.2.src_src_att.v_layer.weight', 'gloss_output_layer.bias', 'gloss_output_layer.weight', 'sgn_embed.ln.bias', 'sgn_embed.ln.weight', 'sgn_embed.norm.norm.bias', 'sgn_embed.norm.norm.weight', 'txt_embed.lut.weight', 'txt_embed.norm.norm.bias', 'txt_embed.norm.norm.weight']
+/users/aca20oya/.local/lib/python3.9/site-packages/torch/optim/lr_scheduler.py:28: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn("The verbose parameter is deprecated. Please use get_last_lr() "
+INFO:signjoey.helpers:cfg.name                           : sign_experiment
+INFO:signjoey.helpers:cfg.data.data_path                 : ./data/
+INFO:signjoey.helpers:cfg.data.version                   : dgs_corpus
+INFO:signjoey.helpers:cfg.data.sgn                       : sign
+INFO:signjoey.helpers:cfg.data.txt                       : text
+INFO:signjoey.helpers:cfg.data.gls                       : gloss
+INFO:signjoey.helpers:cfg.data.train                     : dgs_train
+INFO:signjoey.helpers:cfg.data.dev                       : dgs_dev
+INFO:signjoey.helpers:cfg.data.test                      : dgs_test
+INFO:signjoey.helpers:cfg.data.feature_size              : 274
+INFO:signjoey.helpers:cfg.data.level                     : word
+INFO:signjoey.helpers:cfg.data.txt_lowercase             : True
+INFO:signjoey.helpers:cfg.data.max_sent_length           : 400
+INFO:signjoey.helpers:cfg.data.random_train_subset       : -1
+INFO:signjoey.helpers:cfg.data.random_dev_subset         : -1
+INFO:signjoey.helpers:cfg.data.gls_vocab                 : sign_sample_model/gls.vocab
+INFO:signjoey.helpers:cfg.data.txt_vocab                 : sign_sample_model/txt.vocab
+INFO:signjoey.helpers:cfg.testing.recognition_beam_sizes : [1]
+INFO:signjoey.helpers:cfg.testing.translation_beam_sizes : [1]
+INFO:signjoey.helpers:cfg.testing.translation_beam_alphas : [0]
+INFO:signjoey.helpers:cfg.training.reset_best_ckpt       : False
+INFO:signjoey.helpers:cfg.training.reset_scheduler       : False
+INFO:signjoey.helpers:cfg.training.reset_optimizer       : False
+INFO:signjoey.helpers:cfg.training.random_seed           : 42
+INFO:signjoey.helpers:cfg.training.model_dir             : ./sign_sample_model
+INFO:signjoey.helpers:cfg.training.recognition_loss_weight : 1.0
+INFO:signjoey.helpers:cfg.training.translation_loss_weight : 1.0
+INFO:signjoey.helpers:cfg.training.eval_metric           : bleu
+INFO:signjoey.helpers:cfg.training.optimizer             : adam
+INFO:signjoey.helpers:cfg.training.learning_rate         : 0.001
+INFO:signjoey.helpers:cfg.training.batch_size            : 32
+INFO:signjoey.helpers:cfg.training.num_valid_log         : 5
+INFO:signjoey.helpers:cfg.training.epochs                : 10
+INFO:signjoey.helpers:cfg.training.early_stopping_metric : eval_metric
+INFO:signjoey.helpers:cfg.training.batch_type            : sentence
+INFO:signjoey.helpers:cfg.training.translation_normalization : batch
+INFO:signjoey.helpers:cfg.training.eval_recognition_beam_size : 1
+INFO:signjoey.helpers:cfg.training.eval_translation_beam_size : 1
+INFO:signjoey.helpers:cfg.training.eval_translation_beam_alpha : -1
+INFO:signjoey.helpers:cfg.training.overwrite             : True
+INFO:signjoey.helpers:cfg.training.shuffle               : True
+INFO:signjoey.helpers:cfg.training.use_cuda              : True
+INFO:signjoey.helpers:cfg.training.translation_max_output_length : 30
+INFO:signjoey.helpers:cfg.training.keep_last_ckpts       : 1
+INFO:signjoey.helpers:cfg.training.batch_multiplier      : 1
+INFO:signjoey.helpers:cfg.training.logging_freq          : 100
+INFO:signjoey.helpers:cfg.training.validation_freq       : 1000
+INFO:signjoey.helpers:cfg.training.betas                 : [0.9, 0.998]
+INFO:signjoey.helpers:cfg.training.scheduling            : plateau
+INFO:signjoey.helpers:cfg.training.learning_rate_min     : 1e-07
+INFO:signjoey.helpers:cfg.training.weight_decay          : 0.001
+INFO:signjoey.helpers:cfg.training.patience              : 8
+INFO:signjoey.helpers:cfg.training.decrease_factor       : 0.7
+INFO:signjoey.helpers:cfg.training.label_smoothing       : 0.0
+INFO:signjoey.helpers:cfg.model.initializer              : xavier
+INFO:signjoey.helpers:cfg.model.bias_initializer         : zeros
+INFO:signjoey.helpers:cfg.model.init_gain                : 1.0
+INFO:signjoey.helpers:cfg.model.embed_initializer        : xavier
+INFO:signjoey.helpers:cfg.model.embed_init_gain          : 1.0
+INFO:signjoey.helpers:cfg.model.tied_softmax             : False
+INFO:signjoey.helpers:cfg.model.encoder.type             : transformer
+INFO:signjoey.helpers:cfg.model.encoder.num_layers       : 3
+INFO:signjoey.helpers:cfg.model.encoder.num_heads        : 8
+INFO:signjoey.helpers:cfg.model.encoder.embeddings.embedding_dim : 512
+INFO:signjoey.helpers:cfg.model.encoder.embeddings.scale : False
+INFO:signjoey.helpers:cfg.model.encoder.embeddings.dropout : 0.1
+INFO:signjoey.helpers:cfg.model.encoder.embeddings.norm_type : batch
+INFO:signjoey.helpers:cfg.model.encoder.embeddings.activation_type : softsign
+INFO:signjoey.helpers:cfg.model.encoder.hidden_size      : 512
+INFO:signjoey.helpers:cfg.model.encoder.ff_size          : 2048
+INFO:signjoey.helpers:cfg.model.encoder.dropout          : 0.1
+INFO:signjoey.helpers:cfg.model.decoder.type             : transformer
+INFO:signjoey.helpers:cfg.model.decoder.num_layers       : 3
+INFO:signjoey.helpers:cfg.model.decoder.num_heads        : 8
+INFO:signjoey.helpers:cfg.model.decoder.embeddings.embedding_dim : 512
+INFO:signjoey.helpers:cfg.model.decoder.embeddings.scale : False
+INFO:signjoey.helpers:cfg.model.decoder.embeddings.dropout : 0.1
+INFO:signjoey.helpers:cfg.model.decoder.embeddings.norm_type : batch
+INFO:signjoey.helpers:cfg.model.decoder.embeddings.activation_type : softsign
+INFO:signjoey.helpers:cfg.model.decoder.hidden_size      : 512
+INFO:signjoey.helpers:cfg.model.decoder.ff_size          : 2048
+INFO:signjoey.helpers:cfg.model.decoder.dropout          : 0.1
+INFO:signjoey.helpers:Data set sizes: 
+	train 50507,
+	valid 6313,
+	test 6314
+INFO:signjoey.helpers:First training example:
+	[GLS] TAUB-GEHÖRLOS1 HIN1 URLAUB8 $INDEX1
+	[TXT] a deaf person traveled to israel.
+INFO:signjoey.helpers:First 10 words (gls): (0) <si> (1) <unk> (2) <pad> (3) $INDEX1 (4) ICH1 (5) ICH2 (6) $PROD (7) $GEST (8) DU1 (9) $GEST-ABWINKEN1
+INFO:signjoey.helpers:First 10 words (txt): (0) <unk> (1) <pad> (2) <s> (3) </s> (4) the (5) i (6) to (7) and (8) a (9) was
+INFO:signjoey.helpers:Number of unique glosses (types): 8638
+INFO:signjoey.helpers:Number of unique words (types): 29530
+INFO:signjoey.helpers:SignModel(
+	encoder=TransformerEncoder(num_layers=3, num_heads=8),
+	decoder=TransformerDecoder(num_layers=3, num_heads=8),
+	sgn_embed=SpatialEmbeddings(embedding_dim=512, input_size=274),
+	txt_embed=Embeddings(embedding_dim=512, vocab_size=29530))
+INFO:signjoey.helpers:EPOCH 1
+/users/aca20oya/.local/lib/python3.9/site-packages/torchtext/data/field.py:359: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  var = torch.tensor(arr, dtype=self.dtype, device=device)
+INFO:signjoey.helpers:[Epoch: 001 Step: 00000100] Batch Recognition Loss:   7.615376 => Gls Tokens per Sec:     2283 || Batch Translation Loss:  33.547424 => Txt Tokens per Sec:     4381 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00000200] Batch Recognition Loss:   7.587710 => Gls Tokens per Sec:     2896 || Batch Translation Loss:  34.607449 => Txt Tokens per Sec:     5587 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00000300] Batch Recognition Loss:   7.568852 => Gls Tokens per Sec:     2870 || Batch Translation Loss:  67.503471 => Txt Tokens per Sec:     5471 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00000400] Batch Recognition Loss:   7.819754 => Gls Tokens per Sec:     2840 || Batch Translation Loss:  40.867641 => Txt Tokens per Sec:     5497 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00000500] Batch Recognition Loss:   7.781006 => Gls Tokens per Sec:     2836 || Batch Translation Loss:  53.853889 => Txt Tokens per Sec:     5508 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00000600] Batch Recognition Loss:   7.683286 => Gls Tokens per Sec:     2866 || Batch Translation Loss:  42.864449 => Txt Tokens per Sec:     5447 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00000700] Batch Recognition Loss:   7.750127 => Gls Tokens per Sec:     2764 || Batch Translation Loss:  72.035767 => Txt Tokens per Sec:     5299 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00000800] Batch Recognition Loss:   7.273448 => Gls Tokens per Sec:     2813 || Batch Translation Loss:  68.927834 => Txt Tokens per Sec:     5455 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00000900] Batch Recognition Loss:   7.993935 => Gls Tokens per Sec:     2716 || Batch Translation Loss:  44.108448 => Txt Tokens per Sec:     5301 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00001000] Batch Recognition Loss:   8.079492 => Gls Tokens per Sec:     2831 || Batch Translation Loss:  28.550293 => Txt Tokens per Sec:     5395 || Lr: 0.001000
+INFO:signjoey.helpers:Hooray! New best validation result [eval_metric]!
+INFO:signjoey.helpers:Saving new checkpoint.
+INFO:signjoey.helpers:Validation result at epoch   1, step     1000: duration: 1752.5995s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1463.58984	Translation Loss: 331969.65625	PPL: 202.69141
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.12	(BLEU-1: 5.23,	BLEU-2: 1.64,	BLEU-3: 0.52,	BLEU-4: 0.12)
+	CHRF 13.14	ROUGE 6.99
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1248941-12070517-12233223_a2899767
+INFO:signjoey.helpers:	Gloss Reference :	MUTTER1 AKZEPTIEREN1 NICHT3
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ************ ******
+INFO:signjoey.helpers:	Gloss Alignment :	D       D            D     
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** * *** ** ******* ****** my mother refused.
+INFO:signjoey.helpers:	Text Hypothesis :	i was a lot of hearing people in the    time.   
+INFO:signjoey.helpers:	Text Alignment  :	I I   I I   I  I       I      S  S      S       
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1210997_a2736492
+INFO:signjoey.helpers:	Gloss Reference :	BRAUCHEN1 SELBST1
+INFO:signjoey.helpers:	Gloss Hypothesis:	********* *******
+INFO:signjoey.helpers:	Gloss Alignment :	D         D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** * *** ** ******* ****** ** *** ***** they   organized it  themselves.
+INFO:signjoey.helpers:	Text Hypothesis :	i was a lot of hearing people in the other people in        the time.      
+INFO:signjoey.helpers:	Text Alignment  :	I I   I I   I  I       I      I  I   I     S      S         S   S          
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1176340_a2187549
+INFO:signjoey.helpers:	Gloss Reference :	SCHLESWIG1 FRÜHER1 ZEIT1 SCHLESWIG1
+INFO:signjoey.helpers:	Gloss Hypothesis:	********** ******* ***** **********
+INFO:signjoey.helpers:	Gloss Alignment :	D          D       D     D         
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i *** * *** ** ******* ****** ** *** ***** ****** ** *** ***** ****** ** *** ***** ****** ** *** ***** could  talk about my    time   in *** schleswig.
+INFO:signjoey.helpers:	Text Hypothesis :	i was a lot of hearing people in the other people in the other people in the other people in the other people in   the   other people in the other     
+INFO:signjoey.helpers:	Text Alignment  :	  I   I I   I  I       I      I  I   I     I      I  I   I     I      I  I   I     I      I  I   I     S      S    S     S     S         I   S         
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1290121_a2748961
+INFO:signjoey.helpers:	Gloss Reference :	DEUTSCH1 GEGEN3 $ALPHA1:D GEGEN3
+INFO:signjoey.helpers:	Gloss Hypothesis:	******** ****** ********* ******
+INFO:signjoey.helpers:	Gloss Alignment :	D        D      D         D     
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	there was * *** ** ******* ****** ** *** ***** ****** ** *** ***** ****** ** *** ***** this   one soccer match: germany against the ***** ****** german democratic republic.
+INFO:signjoey.helpers:	Text Hypothesis :	i     was a lot of hearing people in the other people in the other people in the other people in  the    other  people  in      the other people in     the        other    
+INFO:signjoey.helpers:	Text Alignment  :	S         I I   I  I       I      I  I   I     I      I  I   I     I      I  I   I     S      S   S      S      S       S           I     I      S      S          S        
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1212218_a2934175
+INFO:signjoey.helpers:	Gloss Reference :	SCHON1 RECHNEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	****** ********
+INFO:signjoey.helpers:	Gloss Alignment :	D      D       
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** * *** ** ******* ****** ** *** ***** ****** ** *** ***** ****** ** *** ***** ****** ** *** they  were   already able to    calculate it back then.
+INFO:signjoey.helpers:	Text Hypothesis :	i was a lot of hearing people in the other people in the other people in the other people in the other people in      the  other people    in the  other
+INFO:signjoey.helpers:	Text Alignment  :	I I   I I   I  I       I      I  I   I     I      I  I   I     I      I  I   I     I      I  I   S     S      S       S    S     S         S  S    S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 001 Step: 00001100] Batch Recognition Loss:   6.628862 => Gls Tokens per Sec:     2672 || Batch Translation Loss:  24.821104 => Txt Tokens per Sec:     5182 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00001200] Batch Recognition Loss:   7.904318 => Gls Tokens per Sec:     2780 || Batch Translation Loss:  81.289658 => Txt Tokens per Sec:     5256 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00001300] Batch Recognition Loss:   7.671878 => Gls Tokens per Sec:     2767 || Batch Translation Loss:  40.576160 => Txt Tokens per Sec:     5241 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00001400] Batch Recognition Loss:   7.649304 => Gls Tokens per Sec:     2760 || Batch Translation Loss:  72.171997 => Txt Tokens per Sec:     5374 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 001 Step: 00001500] Batch Recognition Loss:   7.352956 => Gls Tokens per Sec:     2778 || Batch Translation Loss:  99.670418 => Txt Tokens per Sec:     5308 || Lr: 0.001000
+INFO:signjoey.helpers:Epoch   1: Total Training Recognition Loss 12326.19  Total Training Translation Loss 86392.38 
+INFO:signjoey.helpers:EPOCH 2
+INFO:signjoey.helpers:[Epoch: 002 Step: 00001600] Batch Recognition Loss:   7.204352 => Gls Tokens per Sec:     2651 || Batch Translation Loss:  27.056356 => Txt Tokens per Sec:     5205 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00001700] Batch Recognition Loss:   7.087098 => Gls Tokens per Sec:     2712 || Batch Translation Loss:  36.334251 => Txt Tokens per Sec:     5273 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00001800] Batch Recognition Loss:   7.391665 => Gls Tokens per Sec:     2851 || Batch Translation Loss:  38.842205 => Txt Tokens per Sec:     5385 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00001900] Batch Recognition Loss:   6.952456 => Gls Tokens per Sec:     2779 || Batch Translation Loss:  28.125191 => Txt Tokens per Sec:     5404 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00002000] Batch Recognition Loss:   7.275656 => Gls Tokens per Sec:     2847 || Batch Translation Loss:  59.909569 => Txt Tokens per Sec:     5332 || Lr: 0.001000
+INFO:signjoey.helpers:Hooray! New best validation result [eval_metric]!
+INFO:signjoey.helpers:Saving new checkpoint.
+INFO:signjoey.helpers:Validation result at epoch   2, step     2000: duration: 1734.5689s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1454.68201	Translation Loss: 318480.81250	PPL: 163.34363
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.41	(BLEU-1: 8.71,	BLEU-2: 2.76,	BLEU-3: 1.00,	BLEU-4: 0.41)
+	CHRF 14.53	ROUGE 9.62
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1177436_a3166612
+INFO:signjoey.helpers:	Gloss Reference :	$ORAL $GEST-NM BISSCHEN1 $NUM-EINER1:1 $NUM-EINER1:2 $GEST
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ******** ********* ************* ************* *****
+INFO:signjoey.helpers:	Gloss Alignment :	D     D        D         D             D             D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** or there’s very few, one, two/  
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go      to   the  same thing.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    S  S       S    S    S    S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1176624_a2885716
+INFO:signjoey.helpers:	Gloss Reference :	ICH1 KANN1 ICH1
+INFO:signjoey.helpers:	Gloss Hypothesis:	**** ***** ****
+INFO:signjoey.helpers:	Gloss Alignment :	D    D     D   
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	and of course i    said yes.
+INFO:signjoey.helpers:	Text Hypothesis :	*** ** ****** yes, yes, yes.
+INFO:signjoey.helpers:	Text Alignment  :	D   D  D      S    S        
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1585089_a3116971
+INFO:signjoey.helpers:	Gloss Reference :	ICH2 SEHEN2 $INDEX1 AUTO1 MERKWÜRDIG1 WEISS1 CAPPUCCINO1
+INFO:signjoey.helpers:	Gloss Hypothesis:	**** ****** ******* ***** *********** ****** ***********
+INFO:signjoey.helpers:	Gloss Alignment :	D    D      D       D     D           D      D          
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i *** **** ** ** rode past there and * *** ** suddenly saw the white smoke.
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go to   the  same  and i had to go       to  the same  time. 
+INFO:signjoey.helpers:	Text Alignment  :	  I   I    I  I  S    S    S         I I   I  S        S       S     S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1211515_a3240034
+INFO:signjoey.helpers:	Gloss Reference :	BEKOMMEN3 GUT1 ESSEN1 ALS1 $INDEX1 HEIM1 $INDEX1
+INFO:signjoey.helpers:	Gloss Hypothesis:	********* **** ****** **** ******* ***** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D         D    D      D    D       D     D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** ** ** *** **** *** * *** ** ** ** the ***** *** **** * food was better than the stuff we      got at  school.
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go to the same and i had to go to the other and then i had  to  go     to   the other hearing or  the club.  
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I  I  I  I   I    I   I I   I  I  I      I     I   I    I S    S   S      S        S     S       S   S   S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1204239_a2623305
+INFO:signjoey.helpers:	Gloss Reference :	KÖRPER1 $GEST-ABWINKEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ***************
+INFO:signjoey.helpers:	Gloss Alignment :	D       D              
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	you can really be glad about that.
+INFO:signjoey.helpers:	Text Hypothesis :	*** *** ****** ** **** yes,  yes. 
+INFO:signjoey.helpers:	Text Alignment  :	D   D   D      D  D    S     S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 002 Step: 00002100] Batch Recognition Loss:   7.292033 => Gls Tokens per Sec:     2725 || Batch Translation Loss:  44.214500 => Txt Tokens per Sec:     5303 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00002200] Batch Recognition Loss:   7.573947 => Gls Tokens per Sec:     2736 || Batch Translation Loss:  36.945293 => Txt Tokens per Sec:     5302 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00002300] Batch Recognition Loss:   7.045571 => Gls Tokens per Sec:     2662 || Batch Translation Loss:  35.869061 => Txt Tokens per Sec:     5078 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00002400] Batch Recognition Loss:   7.518037 => Gls Tokens per Sec:     2748 || Batch Translation Loss:  60.228127 => Txt Tokens per Sec:     5336 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00002500] Batch Recognition Loss:   7.467185 => Gls Tokens per Sec:     2782 || Batch Translation Loss:  40.086067 => Txt Tokens per Sec:     5293 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00002600] Batch Recognition Loss:   6.397348 => Gls Tokens per Sec:     2593 || Batch Translation Loss:  15.246331 => Txt Tokens per Sec:     5051 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00002700] Batch Recognition Loss:   7.064377 => Gls Tokens per Sec:     2722 || Batch Translation Loss:  23.876101 => Txt Tokens per Sec:     5297 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00002800] Batch Recognition Loss:   7.819179 => Gls Tokens per Sec:     2753 || Batch Translation Loss:  21.488754 => Txt Tokens per Sec:     5200 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00002900] Batch Recognition Loss:   6.382845 => Gls Tokens per Sec:     2769 || Batch Translation Loss:  14.540445 => Txt Tokens per Sec:     5355 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 002 Step: 00003000] Batch Recognition Loss:   7.276483 => Gls Tokens per Sec:     2674 || Batch Translation Loss:  25.371857 => Txt Tokens per Sec:     5139 || Lr: 0.001000
+INFO:signjoey.helpers:Hooray! New best validation result [eval_metric]!
+INFO:signjoey.helpers:Saving new checkpoint.
+INFO:signjoey.helpers:Validation result at epoch   2, step     3000: duration: 1751.3120s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1460.65405	Translation Loss: 311179.00000	PPL: 145.33238
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.41	(BLEU-1: 9.23,	BLEU-2: 3.09,	BLEU-3: 0.99,	BLEU-4: 0.41)
+	CHRF 14.73	ROUGE 9.61
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1210825_a3262612
+INFO:signjoey.helpers:	Gloss Reference :	MUTTER4 $GEST-ÜBERLEGEN3 $ORAL DU1 STIMMT1 MUTTER1 STIMMT1 HÖREND1 HANDLUNG2 PERSON1 HANDLUNG2 PROBLEM1 $INDEX2
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* **************** ***** *** ******* ******* ******* ******* ********* ******* ********* ******** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D       D                D     D   D       D       D       D       D         D       D         D        D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** but  she didn’t like the idea either, because as  a     masseur i would have problems communicating with *** **** *** *** **** *** *** **** *** *** hearing people.
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to  go     to   the **** school  in      the first grade   i was   able to       do            with the same for the same for the same for the first   time.  
+INFO:signjoey.helpers:	Text Alignment  :	I I   S    S   S      S        D    S       S       S   S     S         S     S    S        S                  I   I    I   I   I    I   I   I    I   I   S       S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1180254_a2175613
+INFO:signjoey.helpers:	Gloss Reference :	$GEST-NM-KOPFSCHÜTTELN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***********************
+INFO:signjoey.helpers:	Gloss Alignment :	D                      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** ** ** *** ****** ** *** **** *** *** ***** no.  
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go to the school in the same for the first time.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I  I  I  I   I      I  I   I    I   I   I     S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1204694_a2789445
+INFO:signjoey.helpers:	Gloss Reference :	$LIST1:4of4 WAS1 NOCH1
+INFO:signjoey.helpers:	Gloss Hypothesis:	*********** **** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D           D    D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** ** ** *** ****** ** what else?
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go to the school in the  west.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I  I  I  I   I      I  S    S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1427725_a2098891
+INFO:signjoey.helpers:	Gloss Reference :	UNTEN1 SCHUH5 $PROD FUSS3
+INFO:signjoey.helpers:	Gloss Hypothesis:	****** ****** ***** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D      D      D     D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	they were hiding sticks which were attached to their feet underneath their flared skirt, so that one would walk normally.
+INFO:signjoey.helpers:	Text Hypothesis :	**** **** ****** ****** i     was  able     to ***** **** ********** ***** ****** ****** ** **** *** ***** do   that.    
+INFO:signjoey.helpers:	Text Alignment  :	D    D    D      D      S     S    S           D     D    D          D     D      D      D  D    D   D     S    S        
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1210208_a3917655
+INFO:signjoey.helpers:	Gloss Reference :	UND2 AUCH3 DAZU1 BEISPIEL1 SPORT1 ZUSCHUSS1 ANTRAG1
+INFO:signjoey.helpers:	Gloss Hypothesis:	**** ***** ***** ********* ****** ********* *******
+INFO:signjoey.helpers:	Gloss Alignment :	D    D     D     D         D      D         D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** ** ** *** ****** ** *** ***** ***** * *** **** ** ** **** *** **** *** *** **** also the **** *** sports grant application.
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go to the school in the first grade i was able to do with the same for the same for  the same for the    first time.       
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I  I  I  I   I      I  I   I     I     I I   I    I  I  I    I   I    I   I   I    S        I    I   S      S     S           
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 002 Step: 00003100] Batch Recognition Loss:   7.885633 => Gls Tokens per Sec:     2655 || Batch Translation Loss:  34.040413 => Txt Tokens per Sec:     5049 || Lr: 0.001000
+INFO:signjoey.helpers:Epoch   2: Total Training Recognition Loss 11491.25  Total Training Translation Loss 77996.22 
+INFO:signjoey.helpers:EPOCH 3
+INFO:signjoey.helpers:[Epoch: 003 Step: 00003200] Batch Recognition Loss:   6.810618 => Gls Tokens per Sec:     2764 || Batch Translation Loss:  87.886536 => Txt Tokens per Sec:     5295 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00003300] Batch Recognition Loss:   7.172256 => Gls Tokens per Sec:     2844 || Batch Translation Loss:  88.204063 => Txt Tokens per Sec:     5396 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00003400] Batch Recognition Loss:   7.690240 => Gls Tokens per Sec:     2819 || Batch Translation Loss:  34.640396 => Txt Tokens per Sec:     5567 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00003500] Batch Recognition Loss:   7.151158 => Gls Tokens per Sec:     2869 || Batch Translation Loss:  79.684166 => Txt Tokens per Sec:     5449 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00003600] Batch Recognition Loss:   7.421182 => Gls Tokens per Sec:     2871 || Batch Translation Loss:  21.035330 => Txt Tokens per Sec:     5382 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00003700] Batch Recognition Loss:   7.325195 => Gls Tokens per Sec:     2826 || Batch Translation Loss:  15.818105 => Txt Tokens per Sec:     5482 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00003800] Batch Recognition Loss:   7.664328 => Gls Tokens per Sec:     2755 || Batch Translation Loss:  44.352882 => Txt Tokens per Sec:     5404 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00003900] Batch Recognition Loss:   7.081471 => Gls Tokens per Sec:     2820 || Batch Translation Loss:  37.940186 => Txt Tokens per Sec:     5449 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00004000] Batch Recognition Loss:   7.030958 => Gls Tokens per Sec:     2825 || Batch Translation Loss:  69.386101 => Txt Tokens per Sec:     5442 || Lr: 0.001000
+INFO:signjoey.helpers:Validation result at epoch   3, step     4000: duration: 1734.5437s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1441.72180	Translation Loss: 307271.25000	PPL: 136.52364
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.28	(BLEU-1: 7.77,	BLEU-2: 2.46,	BLEU-3: 0.87,	BLEU-4: 0.28)
+	CHRF 13.08	ROUGE 7.66
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1184756_a3093453
+INFO:signjoey.helpers:	Gloss Reference :	$GEST-ÜBERLEGEN1 ESSEN1 TOLL1
+INFO:signjoey.helpers:	Gloss Hypothesis:	**************** ****** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D                D      D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** ********* the  food was really ********* **** * *** good,  too.  
+INFO:signjoey.helpers:	Text Hypothesis :	i was surprised that i    was really surprised that i was really angry.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I         S    S               I         I    I I   S      S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1209309-13344230-13420819_a2787521
+INFO:signjoey.helpers:	Gloss Reference :	MEINUNG1 DEIN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D        D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** ********* **** * *** ****** ********* what’s your opinion to     that?
+INFO:signjoey.helpers:	Text Hypothesis :	i was surprised that i was really surprised that   i    was     really bad. 
+INFO:signjoey.helpers:	Text Alignment  :	I I   I         I    I I   I      I         S      S    S       S      S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1176566_a1706032
+INFO:signjoey.helpers:	Gloss Reference :	FRÜHER1 AKTIV3
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ******
+INFO:signjoey.helpers:	Gloss Alignment :	D       D     
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* there used      to   be more to     do. 
+INFO:signjoey.helpers:	Text Hypothesis :	i was   surprised that it was  really bad.
+INFO:signjoey.helpers:	Text Alignment  :	I S     S         S    S  S    S      S   
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1184756_a3131077
+INFO:signjoey.helpers:	Gloss Reference :	EINSTEIGEN1 $INDEX1
+INFO:signjoey.helpers:	Gloss Hypothesis:	*********** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D           D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** ********* **** so, they joined it?  
+INFO:signjoey.helpers:	Text Hypothesis :	i was surprised that it  was  really nice.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I         I    S   S    S      S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1177278_a2865877
+INFO:signjoey.helpers:	Gloss Reference :	$INDEX1 BEGREIFEN1 SCHIESSEN1 $INDEX1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ********** ********** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D       D          D          D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	and i *** ********* realized this was a *** ** terror attack.
+INFO:signjoey.helpers:	Text Hypothesis :	*** i was surprised that     i    was a lot of deaf   people.
+INFO:signjoey.helpers:	Text Alignment  :	D     I   I         S        S          I   I  S      S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 003 Step: 00004100] Batch Recognition Loss:   7.663977 => Gls Tokens per Sec:     2574 || Batch Translation Loss:  26.398226 => Txt Tokens per Sec:     4806 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00004200] Batch Recognition Loss:   6.640855 => Gls Tokens per Sec:     2660 || Batch Translation Loss:  18.954901 => Txt Tokens per Sec:     5317 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00004300] Batch Recognition Loss:   7.310590 => Gls Tokens per Sec:     2749 || Batch Translation Loss:  53.288677 => Txt Tokens per Sec:     5115 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00004400] Batch Recognition Loss:   6.739533 => Gls Tokens per Sec:     2794 || Batch Translation Loss:  23.782085 => Txt Tokens per Sec:     5479 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00004500] Batch Recognition Loss:   7.438400 => Gls Tokens per Sec:     2766 || Batch Translation Loss:  25.736004 => Txt Tokens per Sec:     5265 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00004600] Batch Recognition Loss:   7.434346 => Gls Tokens per Sec:     2708 || Batch Translation Loss:  45.204029 => Txt Tokens per Sec:     5317 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 003 Step: 00004700] Batch Recognition Loss:   7.628213 => Gls Tokens per Sec:     2748 || Batch Translation Loss:  59.882927 => Txt Tokens per Sec:     5260 || Lr: 0.001000
+INFO:signjoey.helpers:Epoch   3: Total Training Recognition Loss 11399.67  Total Training Translation Loss 75223.86 
+INFO:signjoey.helpers:EPOCH 4
+INFO:signjoey.helpers:[Epoch: 004 Step: 00004800] Batch Recognition Loss:   6.448290 => Gls Tokens per Sec:     2827 || Batch Translation Loss:  17.531353 => Txt Tokens per Sec:     5507 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00004900] Batch Recognition Loss:   6.834368 => Gls Tokens per Sec:     2809 || Batch Translation Loss:  51.493362 => Txt Tokens per Sec:     5375 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00005000] Batch Recognition Loss:   7.156415 => Gls Tokens per Sec:     2881 || Batch Translation Loss:  29.068737 => Txt Tokens per Sec:     5523 || Lr: 0.001000
+INFO:signjoey.helpers:Hooray! New best validation result [eval_metric]!
+INFO:signjoey.helpers:Saving new checkpoint.
+INFO:signjoey.helpers:Validation result at epoch   4, step     5000: duration: 1734.1071s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1449.23462	Translation Loss: 306180.71875	PPL: 134.16205
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.41	(BLEU-1: 11.29,	BLEU-2: 3.63,	BLEU-3: 1.16,	BLEU-4: 0.41)
+	CHRF 14.90	ROUGE 10.54
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1431222_a2149663
+INFO:signjoey.helpers:	Gloss Reference :	UNIVERSITÄT1 KÖLN2 ICH1 SELBST1 VORTRAG1 $GEST-ABWINKEN1 $GEST
+INFO:signjoey.helpers:	Gloss Hypothesis:	************ ***** **** ******* ******** *************** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D            D     D    D       D        D               D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i *** ** *** **** *** gave a   lecture at the university of cologne.
+INFO:signjoey.helpers:	Text Hypothesis :	i was in the past and i    was able    to go  to         my parents.
+INFO:signjoey.helpers:	Text Alignment  :	  I   I  I   I    I   S    S   S       S  S   S          S  S       
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1584617_a3264500
+INFO:signjoey.helpers:	Gloss Reference :	SCHLUSS1 ABLAUF1 $INDEX1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******** ******* *******
+INFO:signjoey.helpers:	Gloss Alignment :	D        D       D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** ** *** **** *** * *** **** ** ** ** ** ********
+INFO:signjoey.helpers:	Text Hypothesis :	i was in the past and i was able to go to my parents.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I  I   I    I   I I   I    I  I  I  I  I       
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1583214_a1858812
+INFO:signjoey.helpers:	Gloss Reference :	SOHN1 NEIN1 WOLLEN1 NEHMEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ***** ******* *******
+INFO:signjoey.helpers:	Gloss Alignment :	D     D     D       D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** my son intervened and told them that he would take both kittens.
+INFO:signjoey.helpers:	Text Hypothesis :	i was in the past       and i    was  able to go    to   my   parents.
+INFO:signjoey.helpers:	Text Alignment  :	I I   S  S   S              S    S    S    S  S     S    S    S       
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1429781-12565132-12585506_a2357258
+INFO:signjoey.helpers:	Gloss Reference :	AUTO1 PROBLEM2 SIE1 $INDEX1 PROBLEM2
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ******** **** ******* ********
+INFO:signjoey.helpers:	Gloss Alignment :	D     D        D    D       D       
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** ** *** **** *** * there were no  problems there.
+INFO:signjoey.helpers:	Text Hypothesis :	i was in the past and i had   to   pay for      it.   
+INFO:signjoey.helpers:	Text Alignment  :	I I   I  I   I    I   I S     S    S   S        S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1431896_a2989496
+INFO:signjoey.helpers:	Gloss Reference :	SEHR-VIEL2 PRÜFEN1 SEHR-VIEL2
+INFO:signjoey.helpers:	Gloss Hypothesis:	********** ******* **********
+INFO:signjoey.helpers:	Gloss Alignment :	D          D       D         
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** ** *** **** there were strict controls at  the border.
+INFO:signjoey.helpers:	Text Hypothesis :	i was in the past and   i    had    to       pay for it.    
+INFO:signjoey.helpers:	Text Alignment  :	I I   I  I   I    S     S    S      S        S   S   S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 004 Step: 00005100] Batch Recognition Loss:   7.392913 => Gls Tokens per Sec:     2637 || Batch Translation Loss:  55.150116 => Txt Tokens per Sec:     5017 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00005200] Batch Recognition Loss:   6.820621 => Gls Tokens per Sec:     2779 || Batch Translation Loss:  54.212296 => Txt Tokens per Sec:     5391 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00005300] Batch Recognition Loss:   6.130465 => Gls Tokens per Sec:     2835 || Batch Translation Loss:  14.304895 => Txt Tokens per Sec:     5529 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00005400] Batch Recognition Loss:   6.960151 => Gls Tokens per Sec:     2786 || Batch Translation Loss:  58.415218 => Txt Tokens per Sec:     5344 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00005500] Batch Recognition Loss:   7.179067 => Gls Tokens per Sec:     2739 || Batch Translation Loss:  56.186386 => Txt Tokens per Sec:     5151 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00005600] Batch Recognition Loss:   7.451766 => Gls Tokens per Sec:     2771 || Batch Translation Loss:  40.223564 => Txt Tokens per Sec:     5457 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00005700] Batch Recognition Loss:   6.976404 => Gls Tokens per Sec:     2845 || Batch Translation Loss:  50.239395 => Txt Tokens per Sec:     5395 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00005800] Batch Recognition Loss:   6.937780 => Gls Tokens per Sec:     2697 || Batch Translation Loss:  55.943958 => Txt Tokens per Sec:     5244 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00005900] Batch Recognition Loss:   7.180624 => Gls Tokens per Sec:     2840 || Batch Translation Loss:  70.995522 => Txt Tokens per Sec:     5345 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00006000] Batch Recognition Loss:   7.224296 => Gls Tokens per Sec:     2742 || Batch Translation Loss:  60.031475 => Txt Tokens per Sec:     5343 || Lr: 0.001000
+INFO:signjoey.helpers:Hooray! New best validation result [eval_metric]!
+INFO:signjoey.helpers:Saving new checkpoint.
+INFO:signjoey.helpers:Validation result at epoch   4, step     6000: duration: 1747.3473s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1434.80066	Translation Loss: 302839.18750	PPL: 127.17735
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.42	(BLEU-1: 9.20,	BLEU-2: 2.88,	BLEU-3: 0.98,	BLEU-4: 0.42)
+	CHRF 13.99	ROUGE 9.28
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1427368_a3243287
+INFO:signjoey.helpers:	Gloss Reference :	ICH2 FRAGE1 $INDEX1 KANN1 MUSS1 ICH1 SUCHEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	**** ****** ******* ***** ***** **** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D    D      D       D     D     D    D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	if i ask one and she has no time i      have to  keep  looking.
+INFO:signjoey.helpers:	Text Hypothesis :	** i *** *** *** *** was a  good school for  the first time.   
+INFO:signjoey.helpers:	Text Alignment  :	D    D   D   D   D   S   S  S    S      S    S   S     S       
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1245390_a2774297
+INFO:signjoey.helpers:	Gloss Reference :	ABER1 GEBÄRDEN1 $INDEX1 DEUTSCH1 NICHT4 GERMANY-ASL1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ********* ******* ******** ****** ************
+INFO:signjoey.helpers:	Gloss Alignment :	D     D         D       D        D      D           
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	but they didn’t sign ‘deutschland‘ like this, but    like this: germany-asl.
+INFO:signjoey.helpers:	Text Hypothesis :	i   was  able   to   go            to   the   school in   the   gdr.        
+INFO:signjoey.helpers:	Text Alignment  :	S   S    S      S    S             S    S     S      S    S     S           
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1187218_a3123018
+INFO:signjoey.helpers:	Gloss Reference :	$GEST-OH-MEIN-GOTT1 SCHON1 ICH1 WISSEN2 $GEST-NM-KOPFSCHÜTTELN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******************* ****** **** ******* ***********************
+INFO:signjoey.helpers:	Gloss Alignment :	D                   D      D    D       D                      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	oops, i *** **** ** ** ** *** ****** **** ** ** **** ** ****** don’t even know.
+INFO:signjoey.helpers:	Text Hypothesis :	***** i was able to go to the berlin wall to be able to become a     good mood.
+INFO:signjoey.helpers:	Text Alignment  :	D       I   I    I  I  I  I   I      I    I  I  I    I  I      S     S    S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1183703_a2765942
+INFO:signjoey.helpers:	Gloss Reference :	$GEST NEIN1 SCHUTZ2 $GEST-NM $GEST-ABWINKEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ***** ******* ******** ***************
+INFO:signjoey.helpers:	Gloss Alignment :	D     D     D       D        D              
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i wasn't supposed to talk to  them. he   stopped me  from doing that.
+INFO:signjoey.helpers:	Text Hypothesis :	i ****** ******** ** **** was a     good school  for the  first time.
+INFO:signjoey.helpers:	Text Alignment  :	  D      D        D  D    S   S     S    S       S   S    S     S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1427810_a3037216
+INFO:signjoey.helpers:	Gloss Reference :	$INDEX1 KEIN6 PROBLEM1 KANN1 $INDEX1 HACKFLEISCH3 DU1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ***** ******** ***** ******* ************ ***
+INFO:signjoey.helpers:	Gloss Alignment :	D       D     D        D     D       D            D  
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	the mincemeat isn’t a **** ****** *** *** ***** problem.
+INFO:signjoey.helpers:	Text Hypothesis :	*** i         was   a good school for the first time.   
+INFO:signjoey.helpers:	Text Alignment  :	D   S         S       I    I      I   I   I     S       
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 004 Step: 00006100] Batch Recognition Loss:   7.578846 => Gls Tokens per Sec:     2180 || Batch Translation Loss:  37.557652 => Txt Tokens per Sec:     4191 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00006200] Batch Recognition Loss:   8.057035 => Gls Tokens per Sec:     2272 || Batch Translation Loss:  42.561375 => Txt Tokens per Sec:     4310 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 004 Step: 00006300] Batch Recognition Loss:   7.195717 => Gls Tokens per Sec:     2194 || Batch Translation Loss:  43.965611 => Txt Tokens per Sec:     4371 || Lr: 0.001000
+INFO:signjoey.helpers:Epoch   4: Total Training Recognition Loss 11345.38  Total Training Translation Loss 73203.16 
+INFO:signjoey.helpers:EPOCH 5
+INFO:signjoey.helpers:[Epoch: 005 Step: 00006400] Batch Recognition Loss:   7.157547 => Gls Tokens per Sec:     2481 || Batch Translation Loss:  67.378540 => Txt Tokens per Sec:     4751 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00006500] Batch Recognition Loss:   6.922302 => Gls Tokens per Sec:     2515 || Batch Translation Loss:  88.610870 => Txt Tokens per Sec:     4755 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00006600] Batch Recognition Loss:   7.416287 => Gls Tokens per Sec:     2461 || Batch Translation Loss:  44.627811 => Txt Tokens per Sec:     4906 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00006700] Batch Recognition Loss:   6.916112 => Gls Tokens per Sec:     2494 || Batch Translation Loss:  15.858997 => Txt Tokens per Sec:     4746 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00006800] Batch Recognition Loss:   7.240458 => Gls Tokens per Sec:     2509 || Batch Translation Loss:  35.519978 => Txt Tokens per Sec:     4844 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00006900] Batch Recognition Loss:   7.021879 => Gls Tokens per Sec:     2487 || Batch Translation Loss:  70.118774 => Txt Tokens per Sec:     4930 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00007000] Batch Recognition Loss:   6.681438 => Gls Tokens per Sec:     2545 || Batch Translation Loss:  33.196754 => Txt Tokens per Sec:     4848 || Lr: 0.001000
+INFO:signjoey.helpers:Hooray! New best validation result [eval_metric]!
+INFO:signjoey.helpers:Saving new checkpoint.
+INFO:signjoey.helpers:Validation result at epoch   5, step     7000: duration: 1738.0805s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1461.10779	Translation Loss: 303331.00000	PPL: 128.18207
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.55	(BLEU-1: 10.91,	BLEU-2: 3.50,	BLEU-3: 1.24,	BLEU-4: 0.55)
+	CHRF 12.23	ROUGE 8.86
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1290581_a2955069
+INFO:signjoey.helpers:	Gloss Reference :	MEISTENS1 ALLES2 FISCH2 $INDEX1
+INFO:signjoey.helpers:	Gloss Hypothesis:	********* ****** ****** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D         D      D      D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** usually they were fish dishes.
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to do      with the  deaf people.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I  S       S    S    S    S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1290754_a3173293
+INFO:signjoey.helpers:	Gloss Reference :	WOHER1 MUT4 WIDERSTAND3 DURCH2 ICH2 ELTERN6 ELTERN1 $INDEX2
+INFO:signjoey.helpers:	Gloss Hypothesis:	****** **** *********** ****** **** ******* ******* *******
+INFO:signjoey.helpers:	Gloss Alignment :	D      D    D           D      D    D       D       D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i *** **** ** got the bravery and   resilience through my  deaf ****** ** *** parents.
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to see the ******* other one        of      the deaf people in the gdr.    
+INFO:signjoey.helpers:	Text Alignment  :	  I   I    I  S       D       S     S          S       S        I      I  I   S       
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1209309-13344230-13420819_a2787952
+INFO:signjoey.helpers:	Gloss Reference :	WAHR3 $INDEX1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D     D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	the true story, that’s how it    is.  
+INFO:signjoey.helpers:	Text Hypothesis :	*** **** ****** ****** i   don't know.
+INFO:signjoey.helpers:	Text Alignment  :	D   D    D      D      S   S     S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1292458_a2986684
+INFO:signjoey.helpers:	Gloss Reference :	AUFWACHSEN1 WIE7 OKAY1
+INFO:signjoey.helpers:	Gloss Hypothesis:	*********** **** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D           D    D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i basically grew up here, it’s  okay.
+INFO:signjoey.helpers:	Text Hypothesis :	i was       able to get   along well.
+INFO:signjoey.helpers:	Text Alignment  :	  S         S    S  S     S     S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1250059_a2481550
+INFO:signjoey.helpers:	Gloss Reference :	BEISPIEL1 ICH1 BEISPIEL1 ICH1 WOLLEN2 NICHT3 ICH1 $ALPHA1:D ICH1 KARRIERE1 HÄNDE-ABKLOPFEN1 UM-DIE-ECKE1 GEHEN1 OKAY1
+INFO:signjoey.helpers:	Gloss Hypothesis:	********* **** ********* **** ******* ****** **** ********* **** ********* **************** ************ ****** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D         D    D         D    D       D      D    D         D    D         D                D            D      D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	people who didn't want to live in  the gdr could only get   out of the country by     taking a   detour.
+INFO:signjoey.helpers:	Text Hypothesis :	****** i   was    able to **** see the *** ***** **** other one of the deaf    people in     the gdr.   
+INFO:signjoey.helpers:	Text Alignment  :	D      S   S      S       D    S       D   D     D    S     S          S       S      S      S   S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 005 Step: 00007100] Batch Recognition Loss:   7.144369 => Gls Tokens per Sec:     1571 || Batch Translation Loss:  27.216230 => Txt Tokens per Sec:     2932 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00007200] Batch Recognition Loss:   6.870933 => Gls Tokens per Sec:     1657 || Batch Translation Loss:  29.305025 => Txt Tokens per Sec:     3187 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00007300] Batch Recognition Loss:   6.801343 => Gls Tokens per Sec:     1720 || Batch Translation Loss:  53.135040 => Txt Tokens per Sec:     3283 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00007400] Batch Recognition Loss:   7.410463 => Gls Tokens per Sec:     1700 || Batch Translation Loss:  36.890396 => Txt Tokens per Sec:     3343 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00007500] Batch Recognition Loss:   6.899946 => Gls Tokens per Sec:     1800 || Batch Translation Loss:  44.017200 => Txt Tokens per Sec:     3403 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00007600] Batch Recognition Loss:   7.134399 => Gls Tokens per Sec:     1792 || Batch Translation Loss:  39.026825 => Txt Tokens per Sec:     3490 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00007700] Batch Recognition Loss:   7.122541 => Gls Tokens per Sec:     1849 || Batch Translation Loss:  37.937927 => Txt Tokens per Sec:     3500 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 005 Step: 00007800] Batch Recognition Loss:   7.171206 => Gls Tokens per Sec:     1824 || Batch Translation Loss:  88.044174 => Txt Tokens per Sec:     3556 || Lr: 0.001000
+INFO:signjoey.helpers:Epoch   5: Total Training Recognition Loss 11291.97  Total Training Translation Loss 71525.17 
+INFO:signjoey.helpers:EPOCH 6
+INFO:signjoey.helpers:[Epoch: 006 Step: 00007900] Batch Recognition Loss:   7.364380 => Gls Tokens per Sec:     1955 || Batch Translation Loss:  30.740946 => Txt Tokens per Sec:     4449 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00008000] Batch Recognition Loss:   6.849740 => Gls Tokens per Sec:     2538 || Batch Translation Loss:  52.453732 => Txt Tokens per Sec:     4886 || Lr: 0.001000
+INFO:signjoey.helpers:Validation result at epoch   6, step     8000: duration: 1727.4408s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1476.43933	Translation Loss: 305964.71875	PPL: 133.69917
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.30	(BLEU-1: 9.86,	BLEU-2: 2.79,	BLEU-3: 0.81,	BLEU-4: 0.30)
+	CHRF 15.76	ROUGE 8.56
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1419265_a2973010
+INFO:signjoey.helpers:	Gloss Reference :	$INDEX1 VERSUCHEN2 HABEN-EXISTIEREN1 KLAPPT1 FRAU4 ZUSAMMEN-PERSON2 ABER1 WAHR1 BESCHEID1 ICH1 DA1 HEIRATEN3 BEIDE2 NEIN3
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ********** ***************** ******* ***** **************** ***** ***** ********* **** *** ********* ****** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D       D          D                 D       D     D                D     D     D         D    D   D         D      D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* but they  agree that  it     must be clear for      the affair that the other partner is married and will want to remain married.
+INFO:signjoey.helpers:	Text Hypothesis :	i was there and   asked myself what i  was   supposed to  do     with the ***** ******* ** ******* *** **** **** ** deaf   people. 
+INFO:signjoey.helpers:	Text Alignment  :	I S   S     S     S     S      S    S  S     S        S   S      S        D     D       D  D       D   D    D    D  S      S       
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1180724_a2692917
+INFO:signjoey.helpers:	Gloss Reference :	ARZT1 NEIN1 HELFEN1 FRAU6 $GEST
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ***** ******* ***** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D     D     D       D     D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	not the doctor, but the  doctor's assistant.
+INFO:signjoey.helpers:	Text Hypothesis :	*** *** ******* *** yes, that’s   right.    
+INFO:signjoey.helpers:	Text Alignment  :	D   D   D       D   S    S        S         
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1220196-12291229-12432115_a1779853
+INFO:signjoey.helpers:	Gloss Reference :	DURCH2 ICH1 GEFÜHL4 MOTORRAD1 ICH2 RICHTUNG3 SAUERLAND1 ICH2 BESICHTIGEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	****** **** ******* ********* **** ********* ********** **** ************
+INFO:signjoey.helpers:	Gloss Alignment :	D      D    D       D         D    D         D          D    D           
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i had   that thought, because i    made   a     motorcycle trip through the  sauerland region      and  looked  around.
+INFO:signjoey.helpers:	Text Hypothesis :	i think that ******** the     deaf people would have       to   be      able to        communicate with hearing people.
+INFO:signjoey.helpers:	Text Alignment  :	  S          D        S       S    S      S     S          S    S       S    S         S           S    S       S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1181240-15572825-16003603_a3191830
+INFO:signjoey.helpers:	Gloss Reference :	VERGESSEN1 $INDEX1 AUFPASSEN5
+INFO:signjoey.helpers:	Gloss Hypothesis:	********** ******* **********
+INFO:signjoey.helpers:	Gloss Alignment :	D          D       D         
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i *** ***** *** ***** ****** **** ** *** can’t forget that.  
+INFO:signjoey.helpers:	Text Hypothesis :	i was there and asked myself what it was like  that   before.
+INFO:signjoey.helpers:	Text Alignment  :	  I   I     I   I     I      I    I  I   S     S      S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1289793_a2939338
+INFO:signjoey.helpers:	Gloss Reference :	$PROD GEHÖREN1 BIELEFELD1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ******** **********
+INFO:signjoey.helpers:	Gloss Alignment :	D     D        D         
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* it’s like  that for   quite  a    while, behind there there’s bielefeld.
+INFO:signjoey.helpers:	Text Hypothesis :	i was  there and  asked myself what it     was    like  that    before.   
+INFO:signjoey.helpers:	Text Alignment  :	I S    S     S    S     S      S    S      S      S     S       S         
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 006 Step: 00008100] Batch Recognition Loss:   7.236161 => Gls Tokens per Sec:     2329 || Batch Translation Loss:  44.406555 => Txt Tokens per Sec:     4491 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00008200] Batch Recognition Loss:   7.452782 => Gls Tokens per Sec:     2363 || Batch Translation Loss:  54.750736 => Txt Tokens per Sec:     4467 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00008300] Batch Recognition Loss:   7.202693 => Gls Tokens per Sec:     2298 || Batch Translation Loss:  38.036037 => Txt Tokens per Sec:     4444 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00008400] Batch Recognition Loss:   7.199816 => Gls Tokens per Sec:     2407 || Batch Translation Loss:  45.271915 => Txt Tokens per Sec:     4646 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00008500] Batch Recognition Loss:   7.163754 => Gls Tokens per Sec:     2361 || Batch Translation Loss:  68.032211 => Txt Tokens per Sec:     4564 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00008600] Batch Recognition Loss:   7.428634 => Gls Tokens per Sec:     2308 || Batch Translation Loss:  31.405529 => Txt Tokens per Sec:     4459 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00008700] Batch Recognition Loss:   7.324401 => Gls Tokens per Sec:     2391 || Batch Translation Loss:  17.354483 => Txt Tokens per Sec:     4648 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00008800] Batch Recognition Loss:   6.991278 => Gls Tokens per Sec:     2353 || Batch Translation Loss:  46.066536 => Txt Tokens per Sec:     4534 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00008900] Batch Recognition Loss:   7.158158 => Gls Tokens per Sec:     2392 || Batch Translation Loss:  36.366695 => Txt Tokens per Sec:     4513 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00009000] Batch Recognition Loss:   7.081816 => Gls Tokens per Sec:     2414 || Batch Translation Loss:  32.595589 => Txt Tokens per Sec:     4701 || Lr: 0.001000
+INFO:signjoey.helpers:Validation result at epoch   6, step     9000: duration: 1740.5764s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1432.64771	Translation Loss: 299796.59375	PPL: 121.13424
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.43	(BLEU-1: 10.08,	BLEU-2: 3.31,	BLEU-3: 1.12,	BLEU-4: 0.43)
+	CHRF 13.23	ROUGE 8.59
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1210825_a3201465
+INFO:signjoey.helpers:	Gloss Reference :	ABLAUF2 DANN1 ICH1 PRAKTIKUM1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ***** **** **********
+INFO:signjoey.helpers:	Gloss Alignment :	D       D     D    D         
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	time went by, and i had  to ** **** do practical  training.
+INFO:signjoey.helpers:	Text Hypothesis :	**** **** *** *** i have to be able to understand it.      
+INFO:signjoey.helpers:	Text Alignment  :	D    D    D   D     S       I  I    S  S          S        
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1205168_a2737708
+INFO:signjoey.helpers:	Gloss Reference :	ICH1 WENN1 DEUTSCH1 SPIELEN2 SELBST1 MUSS1 DORTHIN-GEHEN1 BEOBACHTEN1 $INDEX1 MUSS1
+INFO:signjoey.helpers:	Gloss Hypothesis:	**** ***** ******** ******** ******* ***** ************** *********** ******* *****
+INFO:signjoey.helpers:	Gloss Alignment :	D    D     D        D        D       D     D              D           D       D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	whenever germany was playing, i simply had to  go   to      a  public screening.
+INFO:signjoey.helpers:	Text Hypothesis :	******** i       was ******** a member of  the deaf culture in the    past.     
+INFO:signjoey.helpers:	Text Alignment  :	D        S           D        S S      S   S   S    S       S  S      S         
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1292770_a2914058
+INFO:signjoey.helpers:	Gloss Reference :	$INDEX1 BERATUNG2 $GEST-ABWINKEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ********* ***************
+INFO:signjoey.helpers:	Gloss Alignment :	D       D         D              
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	he talked to the examiner, and everything turned out  well.  
+INFO:signjoey.helpers:	Text Hypothesis :	** ****** ** i   was       a   lot        of     deaf people.
+INFO:signjoey.helpers:	Text Alignment  :	D  D      D  S   S         S   S          S      S    S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1584545_a2284760
+INFO:signjoey.helpers:	Gloss Reference :	$GEST BEGREIFEN1 SACHSEN1 $ALPHA1:SCH SCHWEIZ1 JA2 SACHSEN1 SCHWEIZ1 STIMMT1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ********** ******** *********** ******** *** ******** ******** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D     D          D        D           D        D   D        D        D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** * ****** ** *** oh   sure! right, the **** **** ** saxon switzerland!
+INFO:signjoey.helpers:	Text Hypothesis :	i was a member of the deaf club  in     the deaf club in the   past.       
+INFO:signjoey.helpers:	Text Alignment  :	I I   I I      I  I   S    S     S          I    I    I  S     S           
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1250059_a2518453
+INFO:signjoey.helpers:	Gloss Reference :	ABER1 DAMALS1 NEIN1 DAMALS1 $GEST-AUFMERKSAMKEIT1 DAMALS1 $ALPHA1:D BISSCHEN4 ANDERS1 GRAUSAM1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ******* ***** ******* ********************* ******* ********* ********* ******* ********
+INFO:signjoey.helpers:	Gloss Alignment :	D     D       D     D       D                     D       D         D         D       D       
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	but back in  the gdr    things were different -       it was crueler.
+INFO:signjoey.helpers:	Text Hypothesis :	*** i    was a   member of     the  deaf      culture in the past.   
+INFO:signjoey.helpers:	Text Alignment  :	D   S    S   S   S      S      S    S         S       S  S   S       
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 006 Step: 00009100] Batch Recognition Loss:   6.972945 => Gls Tokens per Sec:     2127 || Batch Translation Loss:  50.512093 => Txt Tokens per Sec:     4021 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00009200] Batch Recognition Loss:   6.867745 => Gls Tokens per Sec:     2183 || Batch Translation Loss:  34.731411 => Txt Tokens per Sec:     4156 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00009300] Batch Recognition Loss:   7.177113 => Gls Tokens per Sec:     2186 || Batch Translation Loss:  44.345081 => Txt Tokens per Sec:     4202 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 006 Step: 00009400] Batch Recognition Loss:   6.788978 => Gls Tokens per Sec:     2179 || Batch Translation Loss:  33.364941 => Txt Tokens per Sec:     4255 || Lr: 0.001000
+INFO:signjoey.helpers:Epoch   6: Total Training Recognition Loss 11223.06  Total Training Translation Loss 70118.43 
+INFO:signjoey.helpers:EPOCH 7
+INFO:signjoey.helpers:[Epoch: 007 Step: 00009500] Batch Recognition Loss:   7.108551 => Gls Tokens per Sec:     2589 || Batch Translation Loss:  65.894737 => Txt Tokens per Sec:     5013 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00009600] Batch Recognition Loss:   7.054992 => Gls Tokens per Sec:     2804 || Batch Translation Loss:  61.700771 => Txt Tokens per Sec:     5344 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00009700] Batch Recognition Loss:   7.350658 => Gls Tokens per Sec:     2726 || Batch Translation Loss:  65.130745 => Txt Tokens per Sec:     5248 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00009800] Batch Recognition Loss:   6.766949 => Gls Tokens per Sec:     2792 || Batch Translation Loss:  54.239361 => Txt Tokens per Sec:     5294 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00009900] Batch Recognition Loss:   6.683652 => Gls Tokens per Sec:     2729 || Batch Translation Loss:  23.087431 => Txt Tokens per Sec:     5172 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00010000] Batch Recognition Loss:   7.142164 => Gls Tokens per Sec:     2778 || Batch Translation Loss:  71.260117 => Txt Tokens per Sec:     5432 || Lr: 0.001000
+INFO:signjoey.helpers:Validation result at epoch   7, step    10000: duration: 1742.1011s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1436.30310	Translation Loss: 302883.34375	PPL: 127.26718
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.39	(BLEU-1: 9.23,	BLEU-2: 2.66,	BLEU-3: 0.88,	BLEU-4: 0.39)
+	CHRF 14.39	ROUGE 8.80
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1212218_a3396505
+INFO:signjoey.helpers:	Gloss Reference :	HIER1
+INFO:signjoey.helpers:	Gloss Hypothesis:	*****
+INFO:signjoey.helpers:	Gloss Alignment :	D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** ** ** *** ****** *** **** ****** *** here/  
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go to the border and walk around the corner.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I  I  I  I   I      I   I    I      I   S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1290121_a2767568
+INFO:signjoey.helpers:	Gloss Reference :	VOR1 $NUM-EINER1:2 $NUM-ZEHNER1:8 PHASE1
+INFO:signjoey.helpers:	Gloss Hypothesis:	**** ************* ************** ******
+INFO:signjoey.helpers:	Gloss Alignment :	D    D             D              D     
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** ** ** *** ******** *** * *** **** ** *********** or   around '82.   
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go to the doctor’s and i was able to communicate with my     mother.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I  I  I  I   I        I   I I   I    I  I           S    S      S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1210208_a2796602
+INFO:signjoey.helpers:	Gloss Reference :	MEIN1 $INDEX1 TAUB-GEHÖRLOS1 $INDEX1 MEIN1 $INDEX1 ALLE2 $GEST-NM-KOPFNICKEN1 ICH1 KEIN3 ZEIT1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ******* ************** ******* ***** ******* ***** ******************** **** ***** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D     D       D              D       D     D       D     D                    D    D     D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* ***** that group of  deaf people went there  but   i    didn’t have the time to  join       them.
+INFO:signjoey.helpers:	Text Hypothesis :	i think that ***** the deaf ****** **** person would have to     be   a   ci   and understand it.  
+INFO:signjoey.helpers:	Text Alignment  :	I I          D     S        D      D    S      S     S    S      S    S   S    S   S          S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1291636_a3090291
+INFO:signjoey.helpers:	Gloss Reference :	$INDEX1 MÖGEN4 ICH1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ****** ****
+INFO:signjoey.helpers:	Gloss Alignment :	D       D      D   
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** ** ** *** ******** *** * *** **** ** **** *** ***** *** **** i *** didn’t like going inside that either.
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go to the doctor’s and i was able to take the train and then i was able   to   go    to     the  top.   
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I  I  I  I   I        I   I I   I    I  I    I   I     I   I      I   S      S    S     S      S    S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1427810_a3041620
+INFO:signjoey.helpers:	Gloss Reference :	$NUM-EINER1:1 BEQUEM2 ANGENEHM2
+INFO:signjoey.helpers:	Gloss Hypothesis:	************* ******* *********
+INFO:signjoey.helpers:	Gloss Alignment :	D             D       D        
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** go out for dinner comfortably and * *** **** ** ** pleasantly just once.
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go *** to  the    doctor’s    and i was able to go to         the  club.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I     D   S   S      S               I I   I    I  I  S          S    S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 007 Step: 00010100] Batch Recognition Loss:   6.822901 => Gls Tokens per Sec:     1299 || Batch Translation Loss:  34.775822 => Txt Tokens per Sec:     2522 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00010200] Batch Recognition Loss:   6.861884 => Gls Tokens per Sec:     1473 || Batch Translation Loss:  48.881382 => Txt Tokens per Sec:     2768 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00010300] Batch Recognition Loss:   7.009617 => Gls Tokens per Sec:     1510 || Batch Translation Loss:  31.866693 => Txt Tokens per Sec:     2933 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00010400] Batch Recognition Loss:   6.839688 => Gls Tokens per Sec:     1534 || Batch Translation Loss:  52.693302 => Txt Tokens per Sec:     2924 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00010500] Batch Recognition Loss:   7.133813 => Gls Tokens per Sec:     1541 || Batch Translation Loss:  36.527378 => Txt Tokens per Sec:     3017 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00010600] Batch Recognition Loss:   6.890361 => Gls Tokens per Sec:     1599 || Batch Translation Loss:  50.188320 => Txt Tokens per Sec:     3063 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00010700] Batch Recognition Loss:   7.371091 => Gls Tokens per Sec:     1613 || Batch Translation Loss:  43.128883 => Txt Tokens per Sec:     3162 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00010800] Batch Recognition Loss:   6.712014 => Gls Tokens per Sec:     1645 || Batch Translation Loss:  46.829063 => Txt Tokens per Sec:     3135 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00010900] Batch Recognition Loss:   7.032640 => Gls Tokens per Sec:     1660 || Batch Translation Loss:  48.836952 => Txt Tokens per Sec:     3200 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 007 Step: 00011000] Batch Recognition Loss:   6.579012 => Gls Tokens per Sec:     1675 || Batch Translation Loss:  48.908680 => Txt Tokens per Sec:     3171 || Lr: 0.001000
+INFO:signjoey.helpers:Validation result at epoch   7, step    11000: duration: 1742.9377s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1412.14392	Translation Loss: 296181.81250	PPL: 114.32680
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.38	(BLEU-1: 10.41,	BLEU-2: 2.93,	BLEU-3: 0.94,	BLEU-4: 0.38)
+	CHRF 15.99	ROUGE 9.78
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1179224_a3253502
+INFO:signjoey.helpers:	Gloss Reference :	HINTER1 PROFI1 $PROD MUSS1 KOSTEN2 AB2 $NUM-HUNDERTER1:2 MANN1 KANN1 REICH3 AB2 $NUM-HUNDERTER1:2 BEZAHLEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ****** ***** ***** ******* *** ***************** ***** ***** ****** *** ***************** *********
+INFO:signjoey.helpers:	Gloss Alignment :	D       D      D     D     D       D   D                 D     D     D      D   D                 D        
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	the reeperbahn has become more professional, now a    man has to *** pay        at  least 200 euros to *** ******** get    a   woman; it  is something for wealthy men      nowadays.
+INFO:signjoey.helpers:	Text Hypothesis :	*** ********** *** ****** **** i             was able to  go  to the restaurant and then  i   went  to the doctor’s office and i      had to go        to  the     boarding school.  
+INFO:signjoey.helpers:	Text Alignment  :	D   D          D   D      D    S             S   S    S   S      I   S          S   S     S   S        I   I        S      S   S      S   S  S         S   S       S        S        
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1432043_a3037656
+INFO:signjoey.helpers:	Gloss Reference :	SCHÖN3
+INFO:signjoey.helpers:	Gloss Hypothesis:	******
+INFO:signjoey.helpers:	Gloss Alignment :	D     
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	well.
+INFO:signjoey.helpers:	Text Hypothesis :	yes. 
+INFO:signjoey.helpers:	Text Alignment  :	S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1180097_a1684044
+INFO:signjoey.helpers:	Gloss Reference :	PRÜFEN1 AUF-PERSON1 PRÜFEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* *********** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D       D           D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** ** ** *** ******** ******* *** * *** **** he wanted to *** test     me.    
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go to the boarding school, but i was able to go     to the boarding school.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I  I  I  I   I        I       I   I I   I    S  S         I   S        S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1428472_a3220104
+INFO:signjoey.helpers:	Gloss Reference :	$NUM-HUNDERTER1:4 $NUM-EINER1:6 $NUM-ZEHNER1:5 ICH1 ENTLASSEN1 ICH1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***************** ************* ************** **** ********** ****
+INFO:signjoey.helpers:	Gloss Alignment :	D                 D             D              D    D          D   
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i *** **** ** ** left school in       1956.  
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go to   the    doctor’s office.
+INFO:signjoey.helpers:	Text Alignment  :	  I   I    I  I  S    S      S        S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1249376_a2841919
+INFO:signjoey.helpers:	Gloss Reference :	ICH2 NEHMEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	**** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D    D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* that’s where i  got it *** *** ***** from.
+INFO:signjoey.helpers:	Text Hypothesis :	i was    able  to do  it for the first time.
+INFO:signjoey.helpers:	Text Alignment  :	I S      S     S  S      I   I   I     S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Epoch   7: Total Training Recognition Loss 11107.19  Total Training Translation Loss 68886.93 
+INFO:signjoey.helpers:EPOCH 8
+INFO:signjoey.helpers:[Epoch: 008 Step: 00011100] Batch Recognition Loss:   6.844660 => Gls Tokens per Sec:     2302 || Batch Translation Loss:  53.148834 => Txt Tokens per Sec:     4361 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00011200] Batch Recognition Loss:   6.947514 => Gls Tokens per Sec:     2101 || Batch Translation Loss:  56.095196 => Txt Tokens per Sec:     4123 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00011300] Batch Recognition Loss:   7.065363 => Gls Tokens per Sec:     2293 || Batch Translation Loss:  68.429001 => Txt Tokens per Sec:     4469 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00011400] Batch Recognition Loss:   7.063401 => Gls Tokens per Sec:     2291 || Batch Translation Loss:  83.177643 => Txt Tokens per Sec:     4355 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00011500] Batch Recognition Loss:   5.426122 => Gls Tokens per Sec:     2207 || Batch Translation Loss:  11.961796 => Txt Tokens per Sec:     4208 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00011600] Batch Recognition Loss:   6.913009 => Gls Tokens per Sec:     2344 || Batch Translation Loss:  38.361198 => Txt Tokens per Sec:     4459 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00011700] Batch Recognition Loss:   6.754322 => Gls Tokens per Sec:     2302 || Batch Translation Loss:  27.546732 => Txt Tokens per Sec:     4483 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00011800] Batch Recognition Loss:   6.639478 => Gls Tokens per Sec:     2310 || Batch Translation Loss:  26.790508 => Txt Tokens per Sec:     4574 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00011900] Batch Recognition Loss:   7.132568 => Gls Tokens per Sec:     2344 || Batch Translation Loss:  51.180576 => Txt Tokens per Sec:     4354 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00012000] Batch Recognition Loss:   6.854714 => Gls Tokens per Sec:     2386 || Batch Translation Loss:  52.267834 => Txt Tokens per Sec:     4572 || Lr: 0.001000
+INFO:signjoey.helpers:Validation result at epoch   8, step    12000: duration: 1739.9921s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1448.42505	Translation Loss: 300390.81250	PPL: 122.29144
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.38	(BLEU-1: 10.58,	BLEU-2: 3.07,	BLEU-3: 1.01,	BLEU-4: 0.38)
+	CHRF 14.73	ROUGE 9.21
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1291636_a3085598
+INFO:signjoey.helpers:	Gloss Reference :	WIR1 LIEGEN-BEIN1 SÜSS4 MORGEN-FRÜH1 FRÜH2
+INFO:signjoey.helpers:	Gloss Hypothesis:	**** ************ ***** ************ *****
+INFO:signjoey.helpers:	Gloss Alignment :	D    D            D     D            D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** ** we didn’t notice anything and **** * ******* slept until the **** ****** next morning.
+INFO:signjoey.helpers:	Text Hypothesis :	i had to go to     the    basement and then i started to    get   the same amount of   money.  
+INFO:signjoey.helpers:	Text Alignment  :	I I   I  S  S      S      S            I    I I       S     S         I    I      S    S       
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1582205_a2039738
+INFO:signjoey.helpers:	Gloss Reference :	BEDEUTUNG1 ANTRAG1 $PROD FÜR1 ARBEITEN2 LOHN1 WIE6 $PROD
+INFO:signjoey.helpers:	Gloss Hypothesis:	********** ******* ***** **** ********* ***** **** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D          D       D     D    D         D     D    D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** ********** the ******* ** money you   file an        application for and  then  get  is like  a  normal wage for        the **** assistants.
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to understand the meaning of the   signs and  explained to          the same thing that i  could be able   to   understand the same thing.     
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I  I              I       I  S     S     S    S         S           S   S    S     S    S  S     S  S      S    S              I    S          
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1187152_a3074475
+INFO:signjoey.helpers:	Gloss Reference :	BABY1 $GEST FREITAG4 UNTERDRÜCKEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ***** ******** *************
+INFO:signjoey.helpers:	Gloss Alignment :	D     D     D        D            
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i ***** **** need to   babysit on    friday, i’m  booked there.
+INFO:signjoey.helpers:	Text Hypothesis :	i think that the  wall is      still the     same for    me.   
+INFO:signjoey.helpers:	Text Alignment  :	  I     I    S    S    S       S     S       S    S      S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1248699_a2755146
+INFO:signjoey.helpers:	Gloss Reference :	$PROD
+INFO:signjoey.helpers:	Gloss Hypothesis:	*****
+INFO:signjoey.helpers:	Gloss Alignment :	D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	so the radioactive waste rattles around.
+INFO:signjoey.helpers:	Text Hypothesis :	i  was able        to    do      that.  
+INFO:signjoey.helpers:	Text Alignment  :	S  S   S           S     S       S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1419607_a3389409
+INFO:signjoey.helpers:	Gloss Reference :	BERLIN1 HIER1 SCHULE3 $GEST-NM-KOPFSCHÜTTELN1 $GEST-NM
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ***** ******* *********************** ********
+INFO:signjoey.helpers:	Gloss Alignment :	D       D     D       D                       D       
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	but here in    berlin it is not really working out with school.
+INFO:signjoey.helpers:	Text Hypothesis :	*** i    think that   it is *** really ******* *** **** bad.   
+INFO:signjoey.helpers:	Text Alignment  :	D   S    S     S            D          D       D   D    S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 008 Step: 00012100] Batch Recognition Loss:   7.203942 => Gls Tokens per Sec:     1369 || Batch Translation Loss:  55.897144 => Txt Tokens per Sec:     2669 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00012200] Batch Recognition Loss:   6.966502 => Gls Tokens per Sec:     1485 || Batch Translation Loss:  33.371098 => Txt Tokens per Sec:     2833 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00012300] Batch Recognition Loss:   7.016015 => Gls Tokens per Sec:     1538 || Batch Translation Loss:  46.375561 => Txt Tokens per Sec:     2996 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00012400] Batch Recognition Loss:   6.940293 => Gls Tokens per Sec:     1486 || Batch Translation Loss:  34.691082 => Txt Tokens per Sec:     2896 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00012500] Batch Recognition Loss:   7.005226 => Gls Tokens per Sec:     1630 || Batch Translation Loss:  46.828529 => Txt Tokens per Sec:     3117 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 008 Step: 00012600] Batch Recognition Loss:   7.471249 => Gls Tokens per Sec:     1608 || Batch Translation Loss:  50.813141 => Txt Tokens per Sec:     3058 || Lr: 0.001000
+INFO:signjoey.helpers:Epoch   8: Total Training Recognition Loss 10962.66  Total Training Translation Loss 67695.49 
+INFO:signjoey.helpers:EPOCH 9
+INFO:signjoey.helpers:[Epoch: 009 Step: 00012700] Batch Recognition Loss:   7.212936 => Gls Tokens per Sec:     2108 || Batch Translation Loss:  50.163979 => Txt Tokens per Sec:     4064 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00012800] Batch Recognition Loss:   6.972278 => Gls Tokens per Sec:     2178 || Batch Translation Loss:  18.938923 => Txt Tokens per Sec:     4153 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00012900] Batch Recognition Loss:   7.095170 => Gls Tokens per Sec:     2213 || Batch Translation Loss:  40.866947 => Txt Tokens per Sec:     4268 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00013000] Batch Recognition Loss:   7.441559 => Gls Tokens per Sec:     2159 || Batch Translation Loss:  22.305071 => Txt Tokens per Sec:     4164 || Lr: 0.001000
+INFO:signjoey.helpers:Validation result at epoch   9, step    13000: duration: 1737.2925s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1442.82727	Translation Loss: 304339.25000	PPL: 130.26672
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.28	(BLEU-1: 11.09,	BLEU-2: 3.20,	BLEU-3: 0.86,	BLEU-4: 0.28)
+	CHRF 14.23	ROUGE 9.98
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1431222_a2139801
+INFO:signjoey.helpers:	Gloss Reference :	NUR2 MASSE-PERSON-AKTIV8 ENDE1
+INFO:signjoey.helpers:	Gloss Hypothesis:	**** ******************* *****
+INFO:signjoey.helpers:	Gloss Alignment :	D    D                   D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	just the protest, that’s it.     
+INFO:signjoey.helpers:	Text Hypothesis :	**** i   was      really baffled.
+INFO:signjoey.helpers:	Text Alignment  :	D    S   S        S      S       
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 2935384-11295937-11502021_a2933257
+INFO:signjoey.helpers:	Gloss Reference :	ABLAUF1 DEIN1 ELTERN1 DEIN1 ELTERN1 HÖREND1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ***** ******* ***** ******* *******
+INFO:signjoey.helpers:	Gloss Alignment :	D       D     D       D     D       D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** * *** you parents are hearing, as         well?
+INFO:signjoey.helpers:	Text Hypothesis :	i was a fan of  german  and was      completely deaf.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I I   S   S       S   S        S          S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1205821_a2492438
+INFO:signjoey.helpers:	Gloss Reference :	AUCH1 $INDEX1 UMWELT2 FREUNDLICH1 NEIN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ******* ******* *********** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D     D       D       D           D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	no one was * ****** *** ** *** ****** ***** ** **** ****** *** **** environmentally friendly there.
+INFO:signjoey.helpers:	Text Hypothesis :	** i   was a little bit of the senior group of deaf people and went to              the      east. 
+INFO:signjoey.helpers:	Text Alignment  :	D  S       I I      I   I  I   I      I     I  I    I      I   I    S               S        S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1418858_a2933273
+INFO:signjoey.helpers:	Gloss Reference :	TAUB-GEHÖRLOS1 GRUPPE3 ERHALTEN1 BLEIBEN2
+INFO:signjoey.helpers:	Gloss Hypothesis:	************** ******* ********* ********
+INFO:signjoey.helpers:	Gloss Alignment :	D              D       D         D       
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	and that’s the way the deaf clubs are supposed to *** be    kept   alive.
+INFO:signjoey.helpers:	Text Hypothesis :	*** ****** *** *** i   was  able  to  go       to the other sports club. 
+INFO:signjoey.helpers:	Text Alignment  :	D   D      D   D   S   S    S     S   S           I   S     S      S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1289462_a2876428
+INFO:signjoey.helpers:	Gloss Reference :	ANDERS1 WAS-BEDEUTET1 KLAR1 ANDERS1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ************* ***** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D       D             D     D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** **** ** ** ** *** ***** *** *** **** * *** **** with you, it’s different anyway.
+INFO:signjoey.helpers:	Text Hypothesis :	i was able to go to the other one and then i was able to   go   to   the       club.  
+INFO:signjoey.helpers:	Text Alignment  :	I I   I    I  I  I  I   I     I   I   I    I I   I    S    S    S    S         S      
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 009 Step: 00013100] Batch Recognition Loss:   6.519064 => Gls Tokens per Sec:     2078 || Batch Translation Loss:  40.138618 => Txt Tokens per Sec:     4018 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00013200] Batch Recognition Loss:   7.145873 => Gls Tokens per Sec:     2130 || Batch Translation Loss:  25.050825 => Txt Tokens per Sec:     4024 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00013300] Batch Recognition Loss:   6.898009 => Gls Tokens per Sec:     2177 || Batch Translation Loss:  62.285164 => Txt Tokens per Sec:     4224 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00013400] Batch Recognition Loss:   7.111305 => Gls Tokens per Sec:     2212 || Batch Translation Loss:  53.183395 => Txt Tokens per Sec:     4253 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00013500] Batch Recognition Loss:   6.929907 => Gls Tokens per Sec:     2234 || Batch Translation Loss:  30.138212 => Txt Tokens per Sec:     4414 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00013600] Batch Recognition Loss:   6.966224 => Gls Tokens per Sec:     2232 || Batch Translation Loss:  72.730240 => Txt Tokens per Sec:     4216 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00013700] Batch Recognition Loss:   6.994688 => Gls Tokens per Sec:     2212 || Batch Translation Loss:  62.018208 => Txt Tokens per Sec:     4341 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00013800] Batch Recognition Loss:   6.504277 => Gls Tokens per Sec:     2257 || Batch Translation Loss:  22.924288 => Txt Tokens per Sec:     4263 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00013900] Batch Recognition Loss:   6.571968 => Gls Tokens per Sec:     2273 || Batch Translation Loss:  69.526268 => Txt Tokens per Sec:     4320 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00014000] Batch Recognition Loss:   6.618796 => Gls Tokens per Sec:     2279 || Batch Translation Loss:  35.898403 => Txt Tokens per Sec:     4373 || Lr: 0.001000
+INFO:signjoey.helpers:Validation result at epoch   9, step    14000: duration: 1731.5089s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1418.61279	Translation Loss: 297391.75000	PPL: 116.56167
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.20	(BLEU-1: 7.67,	BLEU-2: 2.12,	BLEU-3: 0.58,	BLEU-4: 0.20)
+	CHRF 13.93	ROUGE 7.76
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1176846_a2884274
+INFO:signjoey.helpers:	Gloss Reference :	KANN1 PROBE3 BESUCHEN1 VERWALTUNG1 DORTHIN-GEHEN2 VERWALTUNG1
+INFO:signjoey.helpers:	Gloss Hypothesis:	***** ****** ********* *********** ************** ***********
+INFO:signjoey.helpers:	Gloss Alignment :	D     D      D         D           D              D          
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* you'll just      go   to the administration and ***** ****** **** try it  there.
+INFO:signjoey.helpers:	Text Hypothesis :	i was    surprised that i  was surprised      and asked myself what i   was doing.
+INFO:signjoey.helpers:	Text Alignment  :	I S      S         S    S  S   S                  I     I      I    S   S   S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1211752_a2755565
+INFO:signjoey.helpers:	Gloss Reference :	ACHTUNG1 ZUERST1 KONTAKT2 WER3
+INFO:signjoey.helpers:	Gloss Hypothesis:	******** ******* ******** ****
+INFO:signjoey.helpers:	Gloss Alignment :	D        D       D        D   
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	or do i have to        contact a specific person,   and ***** ****** **** if so, who?  
+INFO:signjoey.helpers:	Text Hypothesis :	** ** i was  surprised that    i was      surprised and asked myself what i  was doing.
+INFO:signjoey.helpers:	Text Alignment  :	D  D    S    S         S       S S        S             I     I      I    S  S   S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1250721_a3315139
+INFO:signjoey.helpers:	Gloss Reference :	ABLAUF1 ICH1 LERNEN3 MEHR1 SPRECHEN4
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* **** ******* ***** *********
+INFO:signjoey.helpers:	Gloss Alignment :	D       D    D       D     D        
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** ********* that way, i learned speaking better    and ***** ****** **** better over time. 
+INFO:signjoey.helpers:	Text Hypothesis :	i was surprised that **** i ******* was      surprised and asked myself what i      was  doing.
+INFO:signjoey.helpers:	Text Alignment  :	I I   I              D      D       S        S             I     I      I    S      S    S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1179224_a3261480
+INFO:signjoey.helpers:	Gloss Reference :	HAMBURG1 TYPISCH1 BEREICH1 NORD1 DEUTSCH1 HOCH6 DEUTSCH1 SPRACHE1 BEREICH1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******** ******** ******** ***** ******** ***** ******** ******** ********
+INFO:signjoey.helpers:	Gloss Alignment :	D        D        D        D     D        D     D        D        D       
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	* *** ********* **** * *** ********* *** ***** as     typical of northern germany,  people in hamburg speak hochdeutsch [high german dialects].
+INFO:signjoey.helpers:	Text Hypothesis :	i was surprised that i was surprised and asked myself why     i  was      surprised that   i  had     to    go          to    the    hospital. 
+INFO:signjoey.helpers:	Text Alignment  :	I I   I         I    I I   I         I   I     S      S       S  S        S         S      S  S       S     S           S     S      S         
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1210825_a3267605
+INFO:signjoey.helpers:	Gloss Reference :	$NUM-VON-BIS1 PROBLEM1 $NUM-EINER1:2 DA1 $LIST1:3of3 AUSLAND1 AUCH1
+INFO:signjoey.helpers:	Gloss Hypothesis:	************* ******** ************* *** *********** ******** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D             D        D             D   D           D        D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i *** have      a    problem with them,     and ***** ****** with foreigners as  well. 
+INFO:signjoey.helpers:	Text Hypothesis :	i was surprised that i       was  surprised and asked myself what i          was doing.
+INFO:signjoey.helpers:	Text Alignment  :	  I   S         S    S       S    S             I     I      S    S          S   S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 009 Step: 00014100] Batch Recognition Loss:   6.685514 => Gls Tokens per Sec:     2152 || Batch Translation Loss:  32.670662 => Txt Tokens per Sec:     4111 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 009 Step: 00014200] Batch Recognition Loss:   7.103073 => Gls Tokens per Sec:     2145 || Batch Translation Loss:  23.685865 => Txt Tokens per Sec:     4173 || Lr: 0.001000
+INFO:signjoey.helpers:Epoch   9: Total Training Recognition Loss 10843.61  Total Training Translation Loss 66672.64 
+INFO:signjoey.helpers:EPOCH 10
+INFO:signjoey.helpers:[Epoch: 010 Step: 00014300] Batch Recognition Loss:   7.065527 => Gls Tokens per Sec:     2708 || Batch Translation Loss:  40.136559 => Txt Tokens per Sec:     5192 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00014400] Batch Recognition Loss:   6.758801 => Gls Tokens per Sec:     2832 || Batch Translation Loss:  44.004967 => Txt Tokens per Sec:     5499 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00014500] Batch Recognition Loss:   6.869701 => Gls Tokens per Sec:     2821 || Batch Translation Loss:  60.892384 => Txt Tokens per Sec:     5419 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00014600] Batch Recognition Loss:   6.705113 => Gls Tokens per Sec:     2863 || Batch Translation Loss:  49.172676 => Txt Tokens per Sec:     5490 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00014700] Batch Recognition Loss:   7.325771 => Gls Tokens per Sec:     2755 || Batch Translation Loss:  38.954163 => Txt Tokens per Sec:     5302 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00014800] Batch Recognition Loss:   6.632694 => Gls Tokens per Sec:     2851 || Batch Translation Loss:  33.787575 => Txt Tokens per Sec:     5434 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00014900] Batch Recognition Loss:   6.614869 => Gls Tokens per Sec:     2856 || Batch Translation Loss:  27.278095 => Txt Tokens per Sec:     5522 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00015000] Batch Recognition Loss:   5.350921 => Gls Tokens per Sec:     2757 || Batch Translation Loss:  15.477255 => Txt Tokens per Sec:     5400 || Lr: 0.001000
+INFO:signjoey.helpers:Validation result at epoch  10, step    15000: duration: 1739.9190s
+	Recognition Beam Size: 1	Translation Beam Size: 1	Translation Beam Alpha: -1
+	Recognition Loss: 1415.03625	Translation Loss: 303537.18750	PPL: 128.60562
+	Eval Metric: BLEU
+	WER 100.00	(DEL: 100.00,	INS: 0.00,	SUB: 0.00)
+	BLEU-4 0.31	(BLEU-1: 10.11,	BLEU-2: 3.29,	BLEU-3: 0.93,	BLEU-4: 0.31)
+	CHRF 11.37	ROUGE 8.89
+INFO:signjoey.helpers:Logging Recognition and Translation Outputs
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1419931_a2245708
+INFO:signjoey.helpers:	Gloss Reference :	BIS-DAHIN1 BERLIN1 AUFWACHSEN1 BESONDERS1 $GEST-RUHIG-BLEIBEN1 FRÜHER1
+INFO:signjoey.helpers:	Gloss Hypothesis:	********** ******* *********** ********** ******************** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D          D       D           D          D                    D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	what else was special at the time when i    was  growing up?  
+INFO:signjoey.helpers:	Text Hypothesis :	**** i    was born    in the **** **** same with my      wife.
+INFO:signjoey.helpers:	Text Alignment  :	D    S        S       S      D    D    S    S    S       S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1432043_a2967710
+INFO:signjoey.helpers:	Gloss Reference :	ICH1 $INDEX1
+INFO:signjoey.helpers:	Gloss Hypothesis:	**** *******
+INFO:signjoey.helpers:	Gloss Alignment :	D    D      
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	it was different there.    
+INFO:signjoey.helpers:	Text Hypothesis :	i  was really    surprised.
+INFO:signjoey.helpers:	Text Alignment  :	S      S         S         
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1248400_a2711585
+INFO:signjoey.helpers:	Gloss Reference :	STIMMT1 $NUM-EINER1:2 $NUM-EINER1:3 TÄGLICH1 SCHLIESSEN2 WARTEN1 HERKOMMEN1
+INFO:signjoey.helpers:	Gloss Hypothesis:	******* ************* ************* ******** *********** ******* **********
+INFO:signjoey.helpers:	Gloss Alignment :	D       D             D             D        D           D       D         
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	they had to close for two or three days because they were waiting for  requested spare parts.
+INFO:signjoey.helpers:	Text Hypothesis :	**** *** ** ***** *** *** ** ***** i    was     born in   the     same with      my    wife. 
+INFO:signjoey.helpers:	Text Alignment  :	D    D   D  D     D   D   D  D     S    S       S    S    S       S    S         S     S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1427810_a2456891
+INFO:signjoey.helpers:	Gloss Reference :	ICH2 DARF1 $NUM-EINER1:5 $NUM-ZEHNER2:2 ALT5 ICH1 KANN2 AUTO1
+INFO:signjoey.helpers:	Gloss Hypothesis:	**** ***** ************* ************** **** **** ***** *****
+INFO:signjoey.helpers:	Gloss Alignment :	D    D     D             D              D    D    D     D    
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	are you allowed to drive under 25?  
+INFO:signjoey.helpers:	Text Hypothesis :	*** *** ******* i  don’t know  that.
+INFO:signjoey.helpers:	Text Alignment  :	D   D   D       S  S     S     S    
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:Logging Sequence: 1206010_a2496950
+INFO:signjoey.helpers:	Gloss Reference :	VORTEIL1 ICH2
+INFO:signjoey.helpers:	Gloss Hypothesis:	******** ****
+INFO:signjoey.helpers:	Gloss Alignment :	D        D   
+INFO:signjoey.helpers:	--------------------------------------------------------------------------------------------------------------------
+INFO:signjoey.helpers:	Text Reference  :	i have  the  advantage there, right?
+INFO:signjoey.helpers:	Text Hypothesis :	i don’t know anything  about  that. 
+INFO:signjoey.helpers:	Text Alignment  :	  S     S    S         S      S     
+INFO:signjoey.helpers:========================================================================================================================
+INFO:signjoey.helpers:[Epoch: 010 Step: 00015100] Batch Recognition Loss:   6.594296 => Gls Tokens per Sec:     1500 || Batch Translation Loss:  22.500320 => Txt Tokens per Sec:     2856 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00015200] Batch Recognition Loss:   6.888232 => Gls Tokens per Sec:     1543 || Batch Translation Loss:  46.160015 => Txt Tokens per Sec:     2985 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00015300] Batch Recognition Loss:   6.715684 => Gls Tokens per Sec:     1628 || Batch Translation Loss:  41.584053 => Txt Tokens per Sec:     3056 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00015400] Batch Recognition Loss:   6.233515 => Gls Tokens per Sec:     1656 || Batch Translation Loss:  32.173050 => Txt Tokens per Sec:     3146 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00015500] Batch Recognition Loss:   7.140887 => Gls Tokens per Sec:     1667 || Batch Translation Loss:  61.378517 => Txt Tokens per Sec:     3251 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00015600] Batch Recognition Loss:   6.843047 => Gls Tokens per Sec:     1736 || Batch Translation Loss:  21.139027 => Txt Tokens per Sec:     3301 || Lr: 0.001000
+INFO:signjoey.helpers:[Epoch: 010 Step: 00015700] Batch Recognition Loss:   7.115054 => Gls Tokens per Sec:     1739 || Batch Translation Loss:  42.261436 => Txt Tokens per Sec:     3395 || Lr: 0.001000
+INFO:signjoey.helpers:Epoch  10: Total Training Recognition Loss 10732.50  Total Training Translation Loss 65687.07 
+INFO:signjoey.helpers:Training ended after  10 epochs.
+INFO:signjoey.helpers:Best validation result at step     7000:   0.55 eval_metric.
+WARNING:absl:Using custom data configuration sentences-openpose
+2024-04-16 04:01:54.431879: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_1' with dtype string and shape [128]
+	 [[{{node Placeholder/_1}}]]
+2024-04-16 04:01:54.432431: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_4' with dtype int64 and shape [128]
+	 [[{{node Placeholder/_4}}]]
+INFO:signjoey.helpers:------------------------------------------------------------
+INFO:signjoey.helpers:[DEV] partition [RECOGNITION] experiment [BW]: 1
