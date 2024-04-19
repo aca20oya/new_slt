@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+from torch.profiler import profile, record_function, ProfilerActivity
 import torch
 
 torch.backends.cudnn.deterministic = True
@@ -741,6 +742,11 @@ class TrainManager:
 
         self.tb_writer.close()  # close Tensorboard writer
 
+    def print_cuda_memory(self):
+        print("Total GPU Memory: {:.2f} GB".format(torch.cuda.get_device_properties(0).total_memory / 1024**3))
+        print("Used GPU Memory: {:.2f} GB".format(torch.cuda.memory_allocated(0) / 1024**3))
+        print("Free GPU Memory: {:.2f} GB".format(torch.cuda.memory_reserved(0) / 1024**3))
+
     def _train_batch(self, batch: Batch, update: bool = True) -> (Tensor, Tensor):
         """
         Train the model on one batch: Compute the loss, make a gradient step.
@@ -751,6 +757,13 @@ class TrainManager:
         :return normalized_translation_loss: Normalized translation loss
         """
 
+        self.print_cuda_memory()
+        
+        with profile(activities=[ProfilerActivity.CPU, ProfilerActivity.CUDA], record_shapes=True) as prof:
+            with record_function("model_training"):
+                train(model, data_loader)
+        print(prof.key_averages().table(sort_by="cuda_memory_usage", row_limit=10))
+        
         recognition_loss, translation_loss = self.model.get_loss_for_batch(
             batch=batch,
             recognition_loss_function=self.recognition_loss_function
@@ -1028,7 +1041,7 @@ def train(cfg_file: str) -> None:
     model.kl_loss   = model_kl_divergence_loss
     model.kl_weight = cfg["training"].get("kl_weight",0.0)
     model.do_kl     = model.kl_weight > 0.0
-    
+   
     # for training management, e.g. early stopping and model selection
     trainer = TrainManager(model=model, config=cfg)
 

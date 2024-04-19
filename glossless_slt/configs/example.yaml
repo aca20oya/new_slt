@@ -5,9 +5,9 @@ data:
     sgn: sign 
     txt: text
     gls: gloss
-    train: phoenix14t.pami0.train%0D.1
-    dev:   phoenix14t.pami0.dev%0D.1
-    test:  phoenix14t.pami0.test%0D.1
+    train: phoenix14t.pami0.train
+    dev:   phoenix14t.pami0.dev
+    test:  phoenix14t.pami0.test
     feature_size: 1024
     level: word
     txt_lowercase: true

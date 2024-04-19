@@ -1,0 +1,582 @@
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:14.360, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:15.378, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:16.403, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:17.424, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:18.444, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:19.462, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:20.479, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:21.686, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:22.708, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:23.732, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:24.753, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:25.773, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:26.792, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:27.836, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:28.865, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:29.885, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:30.906, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:31.926, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:32.946, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:33.966, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:34.984, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:36.003, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:37.023, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:38.042, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:39.061, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:40.081, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:41.113, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:42.141, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:43.162, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:44.181, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:45.201, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:46.221, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:47.243, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:48.263, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:49.284, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:50.304, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:51.325, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:52.344, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:53.364, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:54.384, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:55.405, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:56.426, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:57.445, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:58.464, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:37:59.483, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:00.502, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:01.521, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:02.554, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:03.623, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:04.643, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:05.663, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:06.683, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:07.702, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:08.722, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:09.742, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:10.763, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:11.783, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:12.803, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:13.822, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:14.842, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:15.861, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:16.880, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:17.899, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:18.919, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:19.959, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:20.990, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:22.009, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:23.029, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:24.048, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:25.068, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:26.114, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:27.142, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:28.161, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:29.181, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:30.201, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:31.220, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:32.239, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:33.259, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:34.288, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:35.319, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:36.339, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:37.369, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:38.401, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:39.420, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:40.454, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:41.473, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:42.492, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:43.510, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:44.530, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:45.550, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:46.569, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:47.589, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:48.609, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:49.628, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:50.647, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:51.667, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:52.689, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:53.708, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:54.727, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:55.746, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:56.765, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:57.784, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:58.803, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:38:59.883, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:00.903, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:01.922, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:02.941, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:03.974, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:05.005, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:06.026, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:07.046, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:08.065, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:09.085, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:10.104, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:11.124, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:12.143, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:13.163, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:14.183, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:15.204, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:16.223, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:17.243, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:18.261, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:19.280, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:20.299, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:21.318, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:22.336, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:23.355, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:24.388, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:25.434, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:26.487, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:27.537, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:28.578, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:29.630, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 81048 MiB, 3 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:30.679, NVIDIA A100-SXM4-80GB, 15 %, 0 %, 81920 MiB, 80424 MiB, 627 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:31.725, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:32.767, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:33.815, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:34.860, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:35.909, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:36.955, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:38.003, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:39.047, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:40.092, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:41.136, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:42.182, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:43.226, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:44.271, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:45.316, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:46.359, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:47.401, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:48.445, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:49.487, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:50.528, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:51.572, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:52.617, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:53.665, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:54.707, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:55.749, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:56.793, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:57.835, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:58.878, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:39:59.922, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:00.975, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:02.022, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:03.064, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:04.104, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:05.145, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:06.190, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:07.234, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:08.280, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:09.322, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:10.367, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:11.404, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:12.447, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:13.487, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:14.529, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:15.572, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:16.615, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:17.656, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:18.700, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:19.744, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:20.789, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:21.838, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:22.879, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:23.918, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:24.964, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:26.014, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:27.057, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:28.102, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:29.144, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:30.190, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:31.233, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:32.275, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:33.320, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:34.362, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:35.400, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:36.443, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:37.485, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:38.536, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:39.578, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:40.621, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:41.661, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:42.703, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:43.748, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:44.795, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:45.834, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:46.877, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:47.921, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:48.965, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:50.012, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:51.054, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:52.100, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:53.146, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:54.192, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:55.235, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:56.276, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:57.319, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:58.360, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:40:59.403, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:00.448, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:01.496, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:02.540, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:03.583, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:04.634, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:05.674, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:06.717, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:07.763, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:08.804, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:09.844, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:10.885, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:11.913, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:12.929, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:13.945, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:14.961, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:15.977, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:16.994, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:18.009, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:19.025, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:20.041, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:21.057, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:22.073, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:23.089, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:24.105, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:25.121, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:26.137, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:27.152, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:28.168, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:29.184, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:30.200, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:31.216, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:32.231, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:33.247, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:34.263, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:35.279, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:36.295, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:37.311, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:38.326, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:39.342, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:40.358, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:41.374, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:42.389, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:43.405, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:44.421, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:45.437, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:46.453, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:47.469, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:48.485, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:49.501, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:50.517, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:51.533, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:52.549, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:53.567, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:54.600, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:55.651, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:56.694, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:57.738, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:58.780, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:41:59.823, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 1534 MiB, 79517 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:00.862, NVIDIA A100-SXM4-80GB, 21 %, 0 %, 81920 MiB, 1150 MiB, 79901 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:01.904, NVIDIA A100-SXM4-80GB, 14 %, 0 %, 81920 MiB, 820 MiB, 80231 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:02.953, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 8 MiB, 81043 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:04.001, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 8 MiB, 81043 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:05.043, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 8 MiB, 81043 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:06.087, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 8 MiB, 81043 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:07.131, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 8 MiB, 81043 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:08.174, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 8 MiB, 81043 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:09.218, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 8 MiB, 81043 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:10.260, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 8 MiB, 81043 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:11.319, NVIDIA A100-SXM4-80GB, 0 %, 0 %, 81920 MiB, 8 MiB, 81043 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:12.351, NVIDIA A100-SXM4-80GB, 100 %, 3 %, 81920 MiB, 81052 MiB, 0 MiB
+timestamp, name, utilization.gpu [%], utilization.memory [%], memory.total [MiB], memory.free [MiB], memory.used [MiB]
+2024/04/19 07:42:13.370, NVIDIA A100-SXM4-80GB, 100 %, 3 %, 81920 MiB, 81052 MiB, 0 MiB

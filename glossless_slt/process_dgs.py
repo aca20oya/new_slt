@@ -2,9 +2,11 @@ import tensorflow_datasets as tfds
 import re
 from sign_language_datasets.datasets.dgs_corpus import DgsCorpusConfig
 import os
+import getpass
 
 def load_dgs():
-  os.environ['TFDS_DATA_DIR'] = '/mnt/parscratch/users/aca20oya/tensorflow_datasets'
+  username = getpass.getuser()
+  os.environ['TFDS_DATA_DIR'] = f'/mnt/parscratch/users/{username}/tensorflow_datasets'
   config = DgsCorpusConfig(name="sentences-openpose", include_video=False, include_pose="openpose", data_type="sentence")
   dgs_corpus = tfds.load('dgs_corpus', builder_kwargs=dict(config=config))
 
