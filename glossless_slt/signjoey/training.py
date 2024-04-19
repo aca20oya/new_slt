@@ -759,11 +759,6 @@ class TrainManager:
 
         self.print_cuda_memory()
         
-        with profile(activities=[ProfilerActivity.CPU, ProfilerActivity.CUDA], record_shapes=True) as prof:
-            with record_function("model_training"):
-                train(model, data_loader)
-        print(prof.key_averages().table(sort_by="cuda_memory_usage", row_limit=10))
-        
         recognition_loss, translation_loss = self.model.get_loss_for_batch(
             batch=batch,
             recognition_loss_function=self.recognition_loss_function

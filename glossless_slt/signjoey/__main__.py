@@ -30,10 +30,7 @@ def main():
     os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu_id
 
     if args.mode == "train":
-        with profile(activities=[ProfilerActivity.CPU, ProfilerActivity.CUDA], record_shapes=True) as prof:
-            with record_function("model_training"):
-                train(cfg_file=args.config_path)
-        print(prof.key_averages().table(sort_by="cuda_memory_usage", row_limit=10))
+        train(cfg_file=args.config_path)
     elif args.mode == "test":
         test(cfg_file=args.config_path, ckpt=args.ckpt, output_path=args.output_path)
     elif args.mode == "translate":
